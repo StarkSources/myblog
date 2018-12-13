@@ -1,3 +1,4 @@
+featured: true
 
 ## Hello All
 
