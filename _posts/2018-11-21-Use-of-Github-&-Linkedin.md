@@ -1,3 +1,5 @@
+layout: post
+hidden: true
 featured: true
 
 ## Hello All
