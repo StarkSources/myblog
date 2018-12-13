@@ -1,4 +1,7 @@
+layout: post
+hidden: true
 featured: true
+
 #### the best way to learn an algorithm is to visualize it.
 
 > This helps us to remember it for a longer time.
