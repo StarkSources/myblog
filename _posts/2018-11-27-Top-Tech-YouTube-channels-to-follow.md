@@ -3,7 +3,7 @@ layout: post
 title:  "Youtube Channels to follow"
 author: sal
 categories: [ Useful, Youtube ]
-image: assets/images/10.jpg
+image: assets/images/13.jpg
 featured : true
 ---
 ### Tech Channels
