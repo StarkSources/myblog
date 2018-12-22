@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Udacity Pytorch free course"
+author: sal
+categories: [ Useful, Udacity]
+image: assets/images/4.jpg
+---
 Hey Guys ,
 
 Something to rejoice for !! 
