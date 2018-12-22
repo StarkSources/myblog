@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Coder's Calender"
+author: sal
+categories: [ Useful, tutorial ]
+image: assets/images/16.jpg
+---
 <style>
   @media  screen and (min-width : 0px) and (max-width : 767px)  {
   iframe{
@@ -6,14 +13,6 @@
     }
 }
 </style>
-
----
-layout: post
-title:  "Coder's Calender"
-author: sal
-categories: [ Useful, tutorial ]
-image: assets/images/16.jpg
----
 
 Here is the list of events from Hackerrank,Hackerearth and Codechef.
 
