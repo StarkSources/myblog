@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Youtube Channels to follow"
+author: sal
+categories: [ Useful, Youtube ]
+image: assets/images/10.jpg
+featured : true
+---
 ### Tech Channels
 [Hitesh Chodhary](https://www.youtube.com/user/hiteshitube)
 >Hello Technology Lovers,
