@@ -1,6 +1,12 @@
+---
 layout: post
-hidden: true
+title:  "Best way to learn an Algorithm"
+author: sal
+categories: [ Useful, tutorial ]
+image: assets/images/11.jpg
 featured: true
+hidden: true
+---
 
 #### the best way to learn an algorithm is to visualize it.
 
