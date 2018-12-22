@@ -77,13 +77,30 @@
                 <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
 		 
-		 <li class="nav-item active">
+		 {% if page.url == "https://starksources.github.io/computer-science" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ https://starksources.github.io/computer-science }}/about">CS</a>
+                </li>
+		    
+		    {% if page.url == "https://starksources.github.io/data-science/" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ https://starksources.github.io/data-science/ }}/about">DataScience</a>
+                </li>
+		    
+		<!-- <li class="nav-item active">
                 <a href="https://starksources.github.io/computer-science/"> CS</a>
 		</li>
 		    
  		<li class="nav-item active">
 		    <a href="https://starksources.github.io/data-science/">DataSci</a>
 		 </li>
+-->
 		    
 		<li class="nav-item">
                 <a class="nav-link" href="https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip"><i class="fas fa-download"></i> Download</a>
