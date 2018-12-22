@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "GATE CS FREE COURSE"
+author: sal
+categories: [ Useful, GATE ]
+image: assets/images/7.jpg
+---
 
 ![GATE](/blog/img/gatecs.jpg "GATE")
 
