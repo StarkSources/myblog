@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "GO classroom"
+author: sal
+categories: [ Useful, GATE ]
+image: assets/images/1.jpg
+---
 The schedule followed in GO Classroom for GATE 2019
 
 Please see here for [GO Book](https://gateoverflow.in/blog/4490/go-hardcopy-2019) for GATECSE 2019
