@@ -1,6 +1,12 @@
+---
 layout: post
-hidden: true
+title:  "Use of Github & Linkedin"
+author: sal
+categories: [ Useful, tutorial ]
+image: assets/images/12.jpg
 featured: true
+hidden: true
+---
 
 ## Hello All
 
