@@ -50,7 +50,7 @@ plugins:
 jekyll-archives:
   enabled:
     - categories
-  layout: archive
+  layout: default
   permalinks:
     category: /category:name/
     
