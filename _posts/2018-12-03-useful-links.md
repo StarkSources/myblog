@@ -2,7 +2,7 @@
 layout: post
 title:  "Useful Links"
 author: sal
-categories: [ Useful, Resources]
+categories: [Useful,Resources]
 image: assets/images/10.jpg
 featured : true
 ---
