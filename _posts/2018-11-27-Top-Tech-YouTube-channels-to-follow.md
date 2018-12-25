@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Youtube Channels to follow"
+title: "Youtube Channels to follow"
 author: sal
 categories: [ Useful, Youtube ]
 tags :[youtube, channels, tech]
