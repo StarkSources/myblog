@@ -5,7 +5,7 @@ author: sal
 categories: [ Useful, tutorial ]
 image: assets/images/11.jpg
 featured: true
-hidden: true
+tags : algorithm
 ---
 
 #### the best way to learn an algorithm is to visualize it.
