@@ -1,4 +1,8 @@
 ---
+layout: post
+title:  "Coder's Calender"
+author: sal
+image: assets/images/3.jpg
 tags:[tutorial, website]
 categories : [tutorial, web-development]
 ---
