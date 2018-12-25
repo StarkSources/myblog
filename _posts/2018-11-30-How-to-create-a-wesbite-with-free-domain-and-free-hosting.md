@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coder's Calender"
+title:  "How to create a website for free?"
 author: sal
 image: assets/images/3.jpg
 tags:[tutorial, website]
