@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-A Collection of various resources and useful information. 
+A Collection of various resources and useful information by Bharath Sathuri. 
+
+You can request any topic or tutorial by commenting on any page or by contacting through [email](mailto:sathuribharathbrothers1234@gmail.com)
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
