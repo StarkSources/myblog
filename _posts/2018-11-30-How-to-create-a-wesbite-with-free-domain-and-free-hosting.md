@@ -3,7 +3,7 @@ layout: post
 title: "How to create a website for free?"
 author: sal
 image: assets/images/3.jpg
-tags:[tutorial, website]
+tags: [tutorial, website]
 categories: [tutorial, web-development]
 ---
 There are many websites which provide free domains and free hosting.Most of these are useful for entry-level users.All These websites provide a premium version for Professional Users.
