@@ -27,6 +27,51 @@
 	  gtag('js', new Date());
 	  gtag('config', 'UA-130596728-1');
 	</script>
+	
+	<style>
+		#search-container {
+    max-width: 100%;
+}
+input[type=text] {
+    outline: none;
+    padding: 15px 25px;
+    margin: 5px 1px 3px 0px;
+    border: none;
+    width: 100%;
+    border-radius: 1px;
+    box-shadow: 0 1px 0px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+}
+    
+input[type=text]:hover {
+    outline: none;
+    border: none;
+    margin: 5px 1px 3px 0px;
+    padding: 15px 25px;
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+     box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+}
+    
+input[type=text]:focus {
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+    margin: 5px 1px 3px 0px;
+    padding: 15px 25px;
+    border: none;
+    outline: none;
+        -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+}
+@media screen and (max-width: 600px) {
+    input[type=text]{
+            width: 100%;
+            box-sizing: border-box;
+    } 
+    }
+	</style>
     
 </head>
     
@@ -110,22 +155,20 @@
 		 </li>
 -->
 		    
-		<li class="nav-item">
-                <a class="nav-link" href="https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip"><i class="fas fa-download"></i> Download</a>
+		{% if page.url == "/categories.html" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/categories.html">Categories</a>
                 </li>
                 
+                {% if page.url == "/tags.html" %}
+                <li class="nav-item active">
+                {% else %}
                 <li class="nav-item">
-			<a class="nav-link" href="#">Join</a>
-		    </li>
-                
-               
-
-                <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://www.facebook.com/wowthemesnet/"><i class="fab fa-facebook-f"></i></a>
-                </li>
-                
-                <li class="nav-item">
-                <a target="_blank"  class="nav-link" href="https://twitter.com/wowthemesnet"><i class="fab fa-twitter"></i></a>
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/tags.html">Tags</a>
                 </li>
                 
             </ul>		
@@ -151,6 +194,23 @@
     </p>
 </div>
 
+<div id="search-container container">
+<input type="text" id="search-input" placeholder="Search...">
+<ul id="results-container"></ul>
+</div>
+
+<!-- Script pointing to search-script.js -->
+<script src="search-script.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  searchResultTemplate: '<div><a href="{url}"><h1>{title}</h1></a></div>',
+  json: '/search.json'
+})
+</script>
     
     
 <!-- Content
