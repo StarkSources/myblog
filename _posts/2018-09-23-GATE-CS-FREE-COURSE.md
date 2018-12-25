@@ -3,6 +3,7 @@ layout: post
 title:  "GATE CS FREE COURSE"
 author: sal
 categories: [ Useful, GATE ]
+tags : gate
 image: assets/images/7.jpg
 ---
 
