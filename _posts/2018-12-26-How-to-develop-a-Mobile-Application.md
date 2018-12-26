@@ -11,7 +11,9 @@ image: assets/images/1.jpg
 ![Android Studio](https://developer.android.com/studio/images/studio-homepage-hero.jpg)
 ### Android Basics
 #### Emulator
-![Emulator](https://developer.android.com/studio/videos/home/emulator-ar.mp4)
+<video controls poster="/studio/images/run/thumbnail-emulator_2x.png">
+  <source src="https://storage.googleapis.com/androiddevelopers/videos/studio-emulator-overview_2-2.mp4" type="video/mp4">
+</video>
 ##### React Native
 ### Ionic
 ### Andoid Assets Studio for Icons
