@@ -40,6 +40,10 @@ Android Fundamentals official youtube [playlist](https://www.youtube.com/playlis
 
 [React.js](https://reactjs.org/)
 
+#### Flutter
+
+link [here](https://flutter.io/)
+
 ### Ionic
 
 [Link here](https://ionicframework.com/)
