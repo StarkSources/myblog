@@ -11,7 +11,7 @@ image: assets/images/1.jpg
 ![Android Studio](https://developer.android.com/studio/images/studio-homepage-hero.jpg)
 ### Android Basics
 #### Emulator
-<video controls poster="/studio/images/run/thumbnail-emulator_2x.png">
+<video controls poster="/studio/images/run/thumbnail-emulator_2x.png" style="width:400px;height:300px;">
   <source src="https://storage.googleapis.com/androiddevelopers/videos/studio-emulator-overview_2-2.mp4" type="video/mp4">
 </video>
 ##### React Native
