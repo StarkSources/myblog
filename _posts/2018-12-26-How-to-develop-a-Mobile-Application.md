@@ -8,6 +8,7 @@ image: assets/images/1.jpg
 ---
 
 ### Android Studio
+![Android Studio](https://developer.android.com/studio/images/studio-homepage-hero.jpg)
 ### Android Basics
 #### Emulator
 ##### React Native
