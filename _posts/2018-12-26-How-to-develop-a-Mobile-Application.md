@@ -28,7 +28,7 @@ Android Concepts by Google:[link](https://google-developer-training.github.io/an
 
 Android Practicals by Google [link](https://google-developer-training.github.io/android-developer-fundamentals-course-practicals/en/index.html)
 
-
+Android Fundamentals official youtube [playlist](https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB).
 
 #### Emulator
 <video controls poster="/studio/images/run/thumbnail-emulator_2x.png" style="width:600px;height:400px;">
