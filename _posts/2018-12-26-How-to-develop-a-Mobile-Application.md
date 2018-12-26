@@ -13,10 +13,18 @@ Download Android Studio from this [link](https://developer.android.com/studio/).
 
 ![Android Studio](https://developer.android.com/studio/images/studio-homepage-hero.jpg)
 ### Android Basics
+
+Android App Samples [here](https://developer.android.com/samples/).
+
+Codelabs tutorials are available [here](https://codelabs.developers.google.com/?cat=Android).
+
+You can refer this post for more [info](https://starksources.github.io/myblog/useful/android/2018/11/15/Android.html)
+
 #### Emulator
 <video controls poster="/studio/images/run/thumbnail-emulator_2x.png" style="width:600px;height:400px;">
   <source src="https://storage.googleapis.com/androiddevelopers/videos/studio-emulator-overview_2-2.mp4" type="video/mp4">
 </video>
+
 ##### React Native
 ### Ionic
 ### Andoid Assets Studio for Icons
