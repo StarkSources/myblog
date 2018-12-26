@@ -4,14 +4,13 @@ title:  "How to develop a mobile Application"
 author: sal
 categories: [ Useful, tutorial, Android ]
 tags: [coding, Android]
-image: assets/images/1.jpg
+image: https://developer.android.com/studio/images/studio-homepage-hero.jpg
 ---
 
 ### Android Studio
 
 Download Android Studio from this [link](https://developer.android.com/studio/).
 
-![Android Studio](https://developer.android.com/studio/images/studio-homepage-hero.jpg)
 ### Android Basics
 
 Android App Samples [here](https://developer.android.com/samples/).
