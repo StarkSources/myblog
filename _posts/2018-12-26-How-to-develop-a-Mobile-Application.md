@@ -8,6 +8,9 @@ image: assets/images/1.jpg
 ---
 
 ### Android Studio
+
+Download Android Studio from this [link](https://developer.android.com/studio/).
+
 ![Android Studio](https://developer.android.com/studio/images/studio-homepage-hero.jpg)
 ### Android Basics
 #### Emulator
