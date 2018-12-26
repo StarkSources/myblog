@@ -20,6 +20,16 @@ Codelabs tutorials are available [here](https://codelabs.developers.google.com/?
 
 You can refer this post for more [info](https://starksources.github.io/myblog/useful/android/2018/11/15/Android.html)
 
+Goal-Kicker Android tutorial pdf [link](https://books.goalkicker.com/AndroidBook/)
+
+Google developers training [link](https://developers.google.com/training/courses/android-fundamentals)
+
+Android Concepts by Google:[link](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts/en/index.html).
+
+Android Practicals by Google [link](https://google-developer-training.github.io/android-developer-fundamentals-course-practicals/en/index.html)
+
+
+
 #### Emulator
 <video controls poster="/studio/images/run/thumbnail-emulator_2x.png" style="width:600px;height:400px;">
   <source src="https://storage.googleapis.com/androiddevelopers/videos/studio-emulator-overview_2-2.mp4" type="video/mp4">
