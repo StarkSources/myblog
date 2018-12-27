@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Tech Stack used for this website"
-date:   2018-12-13 18:02:44 +0530
-categories: jekyll update
-image: assets/images/15.jpg
+title: "Tech Stack used for this website"
+date: 2018-12-13 18:02:44 +0530
+categories: [update, Tech-Stack]
+tags: tech-stack
+image: https://img.stackshare.io/introducing-stackshare.png
 ---
 
 [![LOGO](https://starksources.github.io/assets/img/Stark Sources.png)](https://starksources.github.io/)
