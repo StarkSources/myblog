@@ -21,7 +21,7 @@ This is because its a heavy software which has many tools and takes a lot of spa
 
 If you are a beginner and your Laptop doesn't support you, I suggest you to go with React Native which doesn't require these heavy softwares and has many great features while developing apps when compared with Android Studio. The one feature which I like most in React is that it has live-Reloading(_Changes are appeared as you keep on modifying them_) which is very handy whereas in Android Studio you have to build your app for every small change made to check whether its working or not.
 
-Download Android Studio from this [link](https://developer.android.com/studio/).
+Download Android Studio from this [link](https://developer.android.com/studio/).After successful Installation of this software start a new project and Create a **Emulator (Virtual Device)** to run your application on a virtual device which runs on your PC but takes out more Memory to run. After this you can check out the following links to learn Android or you can check out courses on [Udemy](https://udemy.com) (If you want an Organized way to learn Android) or you can check out free tutorials on [youtube](https://www.youtube.com/). You can download many paid Udemy Courses for free on this [website](https://www.freetutorials.eu/) if don't want to pay any rupee for any course. 
 
 ### Android Basics
 
@@ -47,6 +47,9 @@ Android Fundamentals official youtube [playlist](https://www.youtube.com/playlis
 </video>
 
 ##### React Native
+
+![React Native](https://kaysharbor.com/wp-content/uploads/2018/05/all-about-react-native-apps-776x415.png)
+
 [Official Docs](http://facebook.github.io/react-native/)
 
 [React.js](https://reactjs.org/)
