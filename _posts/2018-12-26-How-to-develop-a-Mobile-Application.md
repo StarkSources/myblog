@@ -21,9 +21,9 @@ This is because its a heavy software which has many tools and takes a lot of spa
 
 If you are a beginner and your Laptop doesn't support you, I suggest you to go with React Native which doesn't require these heavy softwares and has many great features while developing apps when compared with Android Studio. The one feature which I like most in React is that it has live-Reloading(_Changes are appeared as you keep on modifying them_) which is very handy whereas in Android Studio you have to build your app for every small change made to check whether its working or not.
 
-Download Android Studio from this [link](https://developer.android.com/studio/).After successful Installation of this software start a new project and Create a **Emulator (Virtual Device)** to run your application on a virtual device which runs on your PC but takes out more Memory to run. After this you can check out the following links to learn Android or you can check out courses on [Udemy](https://udemy.com) (If you want an Organized way to learn Android) or you can check out free tutorials on [youtube](https://www.youtube.com/). You can download many paid Udemy Courses for free on this [website](https://www.freetutorials.eu/) if don't want to pay any rupee for any course. 
+Download Android Studio from this [link](https://developer.android.com/studio/).After successful Installation of this software start a new project and Create a **Emulator (Virtual Device)** to run your application on a virtual device which runs on your PC but takes out more Memory to run. After this you can check out the following links to learn Android or you can check out courses on [Udemy](https://udemy.com) (If you want an Organized way to learn Android) or you can check out **free tutorials** on [youtube](https://www.youtube.com/). You can download many paid **Udemy Courses** for free on this [website](https://www.freetutorials.eu/) if don't want to pay any rupee for any course. 
 
-### Android Basics
+### Android Basics Tutorials and links
 
 Android App Samples [here](https://developer.android.com/samples/).
 
@@ -42,6 +42,8 @@ Android Practicals by Google [link](https://google-developer-training.github.io/
 Android Fundamentals official youtube [playlist](https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB).
 
 #### Emulator
+
+This is the virtual device on which you run your mobile applications. You can also run your apps directly on your mobile too.
 <video controls poster="/studio/images/run/thumbnail-emulator_2x.png" style="width:600px;height:400px;">
   <source src="https://storage.googleapis.com/androiddevelopers/videos/studio-emulator-overview_2-2.mp4" type="video/mp4">
 </video>
@@ -67,9 +69,13 @@ export default class HelloWorldApp extends Component {
 }
 {% endhighlight %}
 
-[Official Docs](http://facebook.github.io/react-native/)
+This is the code for Hello World Application in React which is very easy when compared to java and xml code in Android Studio.
+
+[Official Docs and tutorials for learning React Native](http://facebook.github.io/react-native/)
 
 [React.js](https://reactjs.org/)
+
+> I Suggest you to learn React Native from the above official link as it is constantly being updated. You might get into trouble if you follow any tutorial because the code might not work now as the community is constantly adding new features(_The thing which happened with me while I am learning this and made me to quit from learning React Native_). 
 
 #### Flutter
 
