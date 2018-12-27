@@ -4,6 +4,7 @@ title: "Tech Stack used for this website"
 date: 2018-12-13 18:02:44 +0530
 categories: [update, Tech-Stack]
 tags: tech-stack
+author: sal
 image: https://img.stackshare.io/introducing-stackshare.png
 ---
 
