@@ -1,3 +1,9 @@
+---
+image: https://img.stackshare.io/introducing-stackshare.png
+categories: tech-stack
+tags: tech-stack
+---
+
 content will be updated soon.
 
 technologies used:    
