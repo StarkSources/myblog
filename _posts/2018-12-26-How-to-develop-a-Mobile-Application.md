@@ -9,6 +9,15 @@ image: https://developer.android.com/studio/images/studio-homepage-hero.jpg
 
 ### Android Studio
 
+This is the software required by you to develop an application for Android Devices. 
+Android takes more than 85% of the entire mobile market in the world. So many developers are needed for this huge market. 
+We can also develop applcations for Android along with Apps for IOS using latest Technologies like React Native and Flutter
+which helps you to take the entire market. You can read more about those technologies by scrolling down.
+
+>Installing Android Studio with all the required packages and tools is the half-way done in the process of building apps using this software.
+This is because its a heavy software which has many tools and takes a lot of space and memory on your computer.
+**The minimum RAM required to run this software is 4GB and 8GB is the Ideal one **
+
 Download Android Studio from this [link](https://developer.android.com/studio/).
 
 ### Android Basics
