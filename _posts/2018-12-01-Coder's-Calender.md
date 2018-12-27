@@ -4,7 +4,7 @@ title:  "Coder's Calender"
 author: sal
 categories: [ Useful, tutorial ]
 tags: coding
-image: assets/images/16.jpg
+image: https://camo.githubusercontent.com/6a33c6ad71ab60d589bf1adbb6d956e553cb46f7/687474703a2f2f692e696d6775722e636f6d2f504b35387268652e706e67
 ---
 <style>
   @media  screen and (min-width : 0px) and (max-width : 767px)  {
