@@ -3,7 +3,7 @@ layout: post
 title:  "Learn DataScience in 3 months"
 author: sal
 categories: [ Useful, DataScience ]
-image: assets/images/3.jpg
+image: https://cdn-images-1.medium.com/max/1200/1*u16a0WbJeckSdi6kGD3gVA.jpeg
 ---
 
 <iframe width="300" height="200" src="https://www.youtube.com/embed/9rDhY1P3YLA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
