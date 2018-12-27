@@ -9,8 +9,8 @@ image: https://developer.android.com/studio/images/studio-homepage-hero.jpg
 <style>
   @media  screen and (min-width : 0px) and (max-width : 767px)  {
   video{
-      width: 300px;   
-    height:400px;
+      width: 200px;   
+    height:300px;
     }
 }
 </style>
