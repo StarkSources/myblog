@@ -4,9 +4,8 @@ title:  "Use of Github & Linkedin"
 author: sal
 categories: [ Useful, tutorial ]
 tags : [github, Linkedin]
-image: assets/images/12.jpg
+image: https://www.executivegrapevine.com/uploads/articles/story-microsoft-aqcuire-linkedin-github.jpg
 featured: true
-hidden: true
 ---
 
 ## Hello All
