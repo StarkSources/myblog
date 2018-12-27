@@ -23,6 +23,7 @@ If you are a beginner and your Laptop doesn't support you, I suggest you to go w
 
 Download Android Studio from this [link](https://developer.android.com/studio/).After successful Installation of this software start a new project and Create a **Emulator (Virtual Device)** to run your application on a virtual device which runs on your PC but takes out more Memory to run. After this you can check out the following links to learn Android or you can check out courses on [Udemy](https://udemy.com) (If you want an Organized way to learn Android) or you can check out **free tutorials** on [youtube](https://www.youtube.com/). You can download many paid **Udemy Courses** for free on this [website](https://www.freetutorials.eu/) if don't want to pay any rupee for any course. 
 
+<hr>
 ### Android Basics Tutorials and links
 
 Android App Samples [here](https://developer.android.com/samples/).
@@ -41,6 +42,7 @@ Android Practicals by Google [link](https://google-developer-training.github.io/
 
 Android Fundamentals official youtube [playlist](https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB).
 
+<hr>
 #### Emulator
 
 This is the virtual device on which you run your mobile applications. You can also run your apps directly on your mobile too.Here is a short video describing what are the things that you can do on Emulator.
@@ -48,9 +50,12 @@ This is the virtual device on which you run your mobile applications. You can al
   <source src="https://storage.googleapis.com/androiddevelopers/videos/studio-emulator-overview_2-2.mp4" type="video/mp4">
 </video>
 
+<hr>
 ##### React Native
 
 ![React Native](https://kaysharbor.com/wp-content/uploads/2018/05/all-about-react-native-apps-776x415.png)
+
+This is from facebook.
 
 React Native helps you to build native-mobile applications using JavaScript(not like web-apps using HTML5) both for Android and IOS platform at one go.This helps to reach a larger Audience.
 
@@ -77,20 +82,27 @@ This is the code for Hello World Application in React which is very easy when co
 
 > I Suggest you to learn React Native from the above official link as it is constantly being updated. You might get into trouble if you follow any tutorial because the code might not work now as the community is constantly adding new features(_The thing which happened with me while I am learning this and made me to quit from learning React Native_). 
 
+<hr>
 #### Flutter
 
 ![Flutter](https://i.ytimg.com/vi/fq4N0hgOWzU/maxresdefault.jpg)
 
 link [here](https://flutter.io/)
 
+Flutter is developed by Google. It helps you to develop apps faster. Flutter allows you to build beautiful native apps on iOS and Android from a single codebase. Learn Flutter from the above link.
+
+<hr>
 ### Ionic
 
 ![Ionic](https://www.quape.com/wp-content/uploads/2017/07/ionic.jpg)
 
 [Link here](https://ionicframework.com/)
 
+<hr>
 ### Andoid Assets Studio for Icons
 
 ![Assets Studio](https://i1.wp.com/www.snyxius.com/wp-content/uploads/2018/04/android-asset-studio.png?ssl=1)
 [Link here](https://romannurik.github.io/AndroidAssetStudio/index.html)
+
+This is useful for you to create Icons for your Apps.
 
