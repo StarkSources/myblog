@@ -52,19 +52,20 @@ Android Fundamentals official youtube [playlist](https://www.youtube.com/playlis
 
 React Native helps you to build native-mobile applications using JavaScript(not like web-apps using HTML5) both for Android and IOS platform at one go.This helps to reach a larger Audience.
 
-<div class="web-player"><pre><code class="hljs css javascript"><span class="hljs-keyword">import</span> React, { Component } <span class="hljs-keyword">from</span> <span class="hljs-string">'react'</span>;
-<span class="hljs-keyword">import</span> { Text, View } <span class="hljs-keyword">from</span> <span class="hljs-string">'react-native'</span>;
+{% highlight react linenos %}
+import React, { Component } from 'react';
+import { Text, View } from 'react-native';
 
-<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">HelloWorldApp</span> <span class="hljs-keyword">extends</span> <span class="hljs-title">Component</span> </span>{
+export default class HelloWorldApp extends Component {
   render() {
-    <span class="hljs-keyword">return</span> (
-      <span class="xml"><span class="hljs-tag">&lt;<span class="hljs-name">View</span>&gt;</span>
-        <span class="hljs-tag">&lt;<span class="hljs-name">Text</span>&gt;</span>Hello world!<span class="hljs-tag">&lt;/<span class="hljs-name">Text</span>&gt;</span>
-      <span class="hljs-tag">&lt;/<span class="hljs-name">View</span>&gt;</span></span>
+    return (
+      <View>
+        <Text>Hello world!</Text>
+      </View>
     );
   }
 }
-</code></pre><iframe style="margin-top: 4" width="100%" height="420" data-src="//cdn.rawgit.com/dabbott/react-native-web-player/gh-v1.10.0/index.html#code=import%20React%2C%20%7B%20Component%20%7D%20from%20'react'%3B%0Aimport%20%7B%20Text%2C%20View%20%7D%20from%20'react-native'%3B%0A%0Aexport%20default%20class%20HelloWorldApp%20extends%20Component%20%7B%0A%20%20render()%20%7B%0A%20%20%20%20return%20(%0A%20%20%20%20%20%20%3CView%3E%0A%20%20%20%20%20%20%20%20%3CText%3EHello%20world!%3C%2FText%3E%0A%20%20%20%20%20%20%3C%2FView%3E%0A%20%20%20%20)%3B%0A%20%20%7D%0A%7D%0A" frame-border="0"></iframe></div>
+{% endhighlight %}
 
 [Official Docs](http://facebook.github.io/react-native/)
 
