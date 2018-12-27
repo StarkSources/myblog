@@ -16,7 +16,8 @@ which helps you to take the entire market. You can read more about those technol
 
 >Installing Android Studio with all the required packages and tools is the half-way done in the process of building apps using this software.
 This is because its a heavy software which has many tools and takes a lot of space and memory on your computer.
-**The minimum RAM required to run this software is 4GB and 8GB is the Ideal one **
+
+**The minimum RAM required to run this software is 4GB and 8GB is the Ideal one .**
 
 Download Android Studio from this [link](https://developer.android.com/studio/).
 
