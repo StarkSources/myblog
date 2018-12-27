@@ -6,7 +6,14 @@ categories: [ Useful, tutorial, Android ]
 tags: [coding, Android]
 image: https://developer.android.com/studio/images/studio-homepage-hero.jpg
 ---
-
+<style>
+  @media  screen and (min-width : 0px) and (max-width : 767px)  {
+  video{
+      width: 300px;   
+    height:400px;
+    }
+}
+</style>
 ### Android Studio
 
 This is the software required by you to develop an application for Android Devices. 
@@ -46,7 +53,7 @@ Android Fundamentals official youtube [playlist](https://www.youtube.com/playlis
 #### Emulator
 
 This is the virtual device on which you run your mobile applications. You can also run your apps directly on your mobile too.Here is a short video describing what are the things that you can do on Emulator.
-<video center controls poster="/studio/images/run/thumbnail-emulator_2x.png" style="width:600px;height:400px;">
+<video center controls poster="/studio/images/run/thumbnail-emulator_2x.png" style="width:500px;height:400px;">
   <source src="https://storage.googleapis.com/androiddevelopers/videos/studio-emulator-overview_2-2.mp4" type="video/mp4">
 </video>
 
