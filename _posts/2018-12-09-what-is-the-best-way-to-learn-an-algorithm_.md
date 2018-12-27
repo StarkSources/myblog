@@ -3,7 +3,7 @@ layout: post
 title:  "Best way to learn an Algorithm"
 author: sal
 categories: [ Useful, tutorial ]
-image: assets/images/11.jpg
+image: https://blog.pandorafms.org/wp-content/uploads/2018/05/what-is-an-algorithm-featured.png
 featured: true
 tags : algorithm
 ---
