@@ -56,13 +56,18 @@ Android Fundamentals official youtube [playlist](https://www.youtube.com/playlis
 
 #### Flutter
 
+![Flutter](https://i.ytimg.com/vi/fq4N0hgOWzU/maxresdefault.jpg)
+
 link [here](https://flutter.io/)
 
 ### Ionic
+
+![Ionic](https://www.quape.com/wp-content/uploads/2017/07/ionic.jpg)
 
 [Link here](https://ionicframework.com/)
 
 ### Andoid Assets Studio for Icons
 
+![Assets Studio](https://i1.wp.com/www.snyxius.com/wp-content/uploads/2018/04/android-asset-studio.png?ssl=1)
 [Link here](https://romannurik.github.io/AndroidAssetStudio/index.html)
 
