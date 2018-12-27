@@ -2,6 +2,7 @@
 image: https://img.stackshare.io/introducing-stackshare.png
 categories: tech-stack
 tags: tech-stack
+author: sal
 ---
 
 content will be updated soon.
