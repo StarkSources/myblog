@@ -3,7 +3,7 @@ layout: post
 title:  "Useful Links"
 author: sal
 categories: [Useful,Resources]
-image: assets/images/10.jpg
+image: https://www.gbsnewyork.com/portals/gbs/Images/page-headers/useful-links-header.png
 featured : true
 ---
 
