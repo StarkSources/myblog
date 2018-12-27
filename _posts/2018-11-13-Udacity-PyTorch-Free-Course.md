@@ -3,7 +3,7 @@ layout: post
 title:  "Udacity Pytorch free course"
 author: sal
 categories: [ Useful, Udacity]
-image: assets/images/4.jpg
+image: https://cdn-images-1.medium.com/max/2000/1*ff0F7qQ6WQi5cUhcPJdjWQ.png
 ---
 Hey Guys ,
 
