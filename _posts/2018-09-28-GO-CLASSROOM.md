@@ -3,7 +3,7 @@ layout: post
 title:  "GO classroom"
 author: sal
 categories: [ Useful, GATE ]
-image: assets/images/1.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/71icNxgoC9L.jpg
 ---
 The schedule followed in GO Classroom for GATE 2019
 
