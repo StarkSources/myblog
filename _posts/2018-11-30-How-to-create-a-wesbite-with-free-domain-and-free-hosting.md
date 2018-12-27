@@ -2,7 +2,7 @@
 layout: post
 title: "How to create a website for free?"
 author: sal
-image: assets/images/3.jpg
+image: https://yorkshirepublishing.com/wp-content/uploads/2018/06/Website.jpg
 tags: [tutorial, website]
 categories: [tutorial, web-development]
 ---
