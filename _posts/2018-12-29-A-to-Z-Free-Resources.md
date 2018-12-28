@@ -87,16 +87,16 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 > [**Browse this link for detailed information on Python**](Python.md)
 
-- [Learn Python | CodeAcademy](https://www.codecademy.com/learn/learn-python)
+- [Learn Python from CodeAcademy](https://www.codecademy.com/learn/learn-python)
 - [Progate Python Classes](https://progate.com/languages/python) :baby:
-- [Video Tutorial for absolute beginners | YouTube](http://bit.ly/2NkrsKh) :baby:
-- [Intro to Python | Udacity](https://in.udacity.com/course/introduction-to-python--ud1110-india) :free:
-- [Python Class | Google for Education](https://developers.google.com/edu/python/)
+- [Video Tutorial for absolute beginners YouTube](http://bit.ly/2NkrsKh) :baby:
+- [Intro to Python Udacity](https://in.udacity.com/course/introduction-to-python--ud1110-india) :free:
+- [Python Class  Google for Education](https://developers.google.com/edu/python/)
 - [Python For Everybody](https://www.coursera.org/specializations/python)
 - [Write Better Python Functions](https://jeffknupp.com/)
 - [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Great for learning automation and learning the basics of Python
-- [The New Boston Python | Youtube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) - Great python resource for learning python quickly and efficiently
+- [The New Boston Python Youtube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) - Great python resource for learning python quickly and efficiently
 - [Think Python 2e - Green Tea Press](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 - [A Byte of Python](https://python.swaroopch.com/)
 - [Project Euler](https://projecteuler.net/) - Great for practicing writing Python codes
@@ -104,7 +104,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Python 3 Tutorial - Solo Learn](https://www.sololearn.com/Course/Python)
 - [Real Python](https://realpython.com)
-- [Pandas | Kaggle](https://www.kaggle.com/learn/pandas)
+- [Pandas  Kaggle](https://www.kaggle.com/learn/pandas)
 - [Python Class By Google](https://developers.google.com/edu/python/) This is a free class for people with a little bit of     programming experience who want to learn Python. The class includes written materials, lecture videos, and lots of code     exercises to practice Python coding.
 - [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [Python 3 for humans that want practical project exposure](https://pythonprogramming.net/)
@@ -119,15 +119,15 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 -  **Best Online Courses**
     - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
-    - [AndrewNg | Coursera](https://www.coursera.org/learn/machine-learning) :heavy_dollar_sign:
-    - [Machine Learning - Nanodegree | Udacity](https://in.udacity.com/course/intro-to-machine-learning--ud120-india) :heavy_dollar_sign:
-    - [ Reinforcement Learning - Nanodegree | Udacity](https://in.udacity.com/course/reinforcement-learning--ud600) :heavy_dollar_sign:
+    - [AndrewNg  Coursera](https://www.coursera.org/learn/machine-learning) :heavy_dollar_sign:
+    - [Machine Learning - Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india) :heavy_dollar_sign:
+    - [ Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600) :heavy_dollar_sign:
     - [Move 37](https://www.theschool.ai/courses/move-37-course/) - :free:
-    - [ML with Python | YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+    - [ML with Python YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
     - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) - :heavy_dollar_sign:
-    - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro)
-    - [Applied Data Science with Python Specialization | Coursera](https://www.coursera.org/specializations/data-science-python) :heavy_dollar_sign:
-    - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning) 
+    - [Machine Learning Crash Course  Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro)
+    - [Applied Data Science with Python Specialization Coursera](https://www.coursera.org/specializations/data-science-python) :heavy_dollar_sign:
+    - [Machine Learning Kaggle](https://www.kaggle.com/learn/machine-learning) 
     - [Machine Learning Crash Course By Google](https://developers.google.com/machine-learning/crash-course/ml-intro)             Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on       practice exercises.
 
 -  **Best GitHub Repositories to follow**
@@ -160,9 +160,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 > [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML.md)
 
 -  **Best Online Courses**
-    - [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning) :heavy_dollar_sign:
-    - [Deep Learning | Fast.AI](http://course.fast.ai/)
-    - [Deep Learning | Kaggle](https://www.kaggle.com/learn/deep-learning/)
+    - [Deep Learning Specialization  Coursera](https://www.coursera.org/specializations/deep-learning) :heavy_dollar_sign:
+    - [Deep Learning  Fast.AI](http://course.fast.ai/)
+    - [Deep Learning  Kaggle](https://www.kaggle.com/learn/deep-learning/)
 
 -  **Best Online Books**
     - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
@@ -182,7 +182,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 1.4 Android Development
 
 -  [For Beginners](Android.md) :baby:
--  [Free courses & Nanodegree | Udacity](https://udacity.com)
+-  [Free courses & Nanodegree  Udacity](https://udacity.com)
 -  [PluralSight - Android Developer Track](https://www.pluralsight.com/paths/android) :heavy_dollar_sign:
 -  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
 -  [Android examples ](https://github.com/nisrulz/android-examples)
@@ -197,7 +197,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Backend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/backend.png)
 
 -  **Django - Python**
-    - [Try Django | YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) :baby:
+    - [Try Django  YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) :baby:
     - [Django Docs](https://docs.djangoproject.com/en/2.1/)
     - [Django Girls](https://tutorial.djangogirls.org/en/)
     - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) :baby:
@@ -209,8 +209,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) :baby: + Intermediate
 
 -  **Node.JS**
-    - [NodeSchool | Workshops Open Source](https://nodeschool.io/) :heart:
-    - [The Complete Node.js Developer Course | Udemy](https://www.udemy.com/the-complete-nodejs-developer-course-2/) :heavy_dollar_sign:
+    - [NodeSchool  Workshops Open Source](https://nodeschool.io/) :heart:
+    - [The Complete Node.js Developer Course  Udemy](https://www.udemy.com/the-complete-nodejs-developer-course-2/) :heavy_dollar_sign:
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
     - [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/?siteID=jU79Zysihs4-ysDvxh6JST3o9mSuR2USMQ&LSNPUBID=jU79Zysihs4) :heavy_dollar_sign: - Intermediate
     - [Node JS Tutorial for Beginners | YouTube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) :baby:
@@ -240,8 +240,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - **Ruby**
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
     - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
-    - [Learn Ruby | Codecademy](https://www.codecademy.com/learn/learn-ruby) - Familiarity with Ruby before Rails
-    - [Learn Ruby, Dev Concept and More | Upskills with Upcase](https://thoughtbot.com/upcase/practice) - Familiarity with ruby and coding concepts
+    - [Learn Ruby Codecademy](https://www.codecademy.com/learn/learn-ruby) - Familiarity with Ruby before Rails
+    - [Learn Ruby, Dev Concept and More Upskills with Upcase](https://thoughtbot.com/upcase/practice) - Familiarity with ruby and coding concepts
     - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
     - [Ruby Tapas](https://www.rubytapas.com/) - Short, Focused Screencasts covering Intermediate to Advanced Ruby concepts and techniques, design principles, testing practices, refactoring, etc.
     - [Why's (Poignant) Guide to Ruby](https://poignant.guide/)
@@ -249,7 +249,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book/frontmatter) - Learn Web Development with Rails
 
 - **MongoDB**
-    - [MongoDB Tutorial for Beginners | YouTube](https://www.youtube.com/watch?v=GtD93tVZDX4)
+    - [MongoDB Tutorial for Beginners YouTube](https://www.youtube.com/watch?v=GtD93tVZDX4)
     - [Tutorial for Beginner](https://www.youtube.com/watch?v=GtD93tVZDX4)
     - [Free Courses and Paid Private training](https://university.mongodb.com/)
     - [Understanding Mongoose Deep Population](http://frontendcollisionblog.com/mongodb/2016/01/24/mongoose-populate.html)
@@ -268,13 +268,13 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     (General Assembly Dash currently works best in Microsoft Edge as of 10-2018)
 
 - **HTML5 and CSS3**
-    - [HTML and CSS Tutorials | w3schools.com](https://www.w3schools.com/html/default.asp) :baby:
+    - [HTML and CSS Tutorials w3schools.com](https://www.w3schools.com/html/default.asp) :baby:
     - [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
-    - [Intro to HTML and CSS | Udacity](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
-    - [Write quicker HTML5 and CSS 3 | Learn Code Online](https://courses.learncodeonline.in/learn/emmet-course?)
+    - [Intro to HTML and CSS  Udacity](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
+    - [Write quicker HTML5 and CSS 3  Learn Code Online](https://courses.learncodeonline.in/learn/emmet-course?)
     - [Flexbox Interactive](https://codepen.io/enxaneta/full/adLPwv)
     - [freeCodeCamp](https://www.freecodecamp.org/)
-    - [HTML & CSS Catalog | Codecademy](https://www.codecademy.com/catalog/language/html-css)
+    - [HTML & CSS Catalog Codecademy](https://www.codecademy.com/catalog/language/html-css)
     - [Interneting is Hard](https://internetingishard.com/html-and-css/)
     - [HTML MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML)
     - [CSS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS)
@@ -283,11 +283,11 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [HTML Dog Tutorials](http://www.htmldog.com/guides/)
     - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
     - [CSS Grid](https://cssgrid.io/)
-    - [CSS Flexbox | Wes Bos](https://flexbox.io/)
+    - [CSS Flexbox  Wes Bos](https://flexbox.io/)
     - [CSS-The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) (**Udemy Paid**) *Good for beginners*
     - [Advanced CSS and SASS](https://www.udemy.com/advanced-css-and-sass) - **(Udemy Paid)**
     - [flexbox cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
-    - [Flexbox Froggy | CSS Learning Game](https://flexboxfroggy.com/)
+    - [Flexbox Froggy  CSS Learning Game](https://flexboxfroggy.com/)
     - [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
     - [CSS Reference: A Visual CSS Cheat Sheet](https://cssreference.io/) *Good for beginners*
     - [HTML Reference: A Visual HTML Cheat Sheet](https://htmlreference.io/) *Good for beginners*
@@ -297,7 +297,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - **Bootstrap4**
 
-    - [Bootstrap4 Course with Projects | Learn Code Online](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
+    - [Bootstrap4 Course with Projects](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
     - [BitDegree-BootStrap 4](https://bitdegree.org/learn/bootstrap-css)
 	- [Bootstrap4 Tutorial for beginners] (https://www.quackit.com/bootstrap/bootstrap_4/tutorial/)
 	- [Bootstrap4 blog top] (https://coursetro.com/posts/code/130/Learn-Bootstrap-4-Final-in-2018-with-our-Free-Crash-Course)
@@ -306,21 +306,21 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
     - [javascript info](https://javascript.info/)
-    - [Javascript30 | Wes Bos](https://javascript30.com/)
-    - [Intro to JavaScript | Udacity](https://in.udacity.com/course/intro-to-javascript--ud803-india)
+    - [Javascript30  Wes Bos](https://javascript30.com/)
+    - [Intro to JavaScript  Udacity](https://in.udacity.com/course/intro-to-javascript--ud803-india)
     - [JavaScript Docs and Live examples](https://www.w3schools.com/js/)
     - [JavaScript: Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
     - [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) :star: :heavy_dollar_sign:
     - [You Don’t Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) :star:
     - [Eloquent JavaScript Online](https://eloquentjavascript.net/)
-    - [JavaScript Design Patterns | Udacity](https://in.udacity.com/course/javascript-design-patterns--ud989)
+    - [JavaScript Design Patterns Udacity](https://in.udacity.com/course/javascript-design-patterns--ud989)
     - [Theodinproject](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-1)
-    - [Introduction to JavaScript | freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
+    - [Introduction to JavaScript freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
     - [HTML Dog](http://www.htmldog.com/guides/javascript/)
-    - [Javascript Tutorial for Beginner Complete Course 2018 | YouTube](https://www.youtube.com/watch?v=PwsigsH4oXw)
+    - [Javascript Tutorial for Beginner Complete Course 2018 YouTube](https://www.youtube.com/watch?v=PwsigsH4oXw)
     - [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
     - [30 Seconds of Code](https://30secondsofcode.org/)
-    - [example.js | js by example | CodePen ](https://codepen.io/towc/post/examplejs-1-1)
+    - [example.js CodePen ](https://codepen.io/towc/post/examplejs-1-1)
     - [Foundations of Programming in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) :baby:
     - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
     - [BitDegree-JS Basics](https://bitdegree.org/learn/javascript-basics)
@@ -328,14 +328,14 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [freeCodeCamp](https://www.freecodecamp.org/)
     - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
     - [ES6 Cheatsheet](https://es6cheatsheet.com/)
-    - [RegexOne | Regular Expression course](https://regexone.com/)
+    - [RegexOne Regular Expression course](https://regexone.com/)
 
 
 - **JavaScript Frameworks**
 
     - **Angular**
-        - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller | Udemy](https://www.udemy.com/the-complete-guide-to-angular-2/) :heavy_dollar_sign:
-        - [The Complete Angular Course: Beginner to Advanced by  Mosh Hamedani | Udemy](https://www.udemy.com/the-complete-angular-master-class/) - :heavy_dollar_sign:
+        - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller Udemy](https://www.udemy.com/the-complete-guide-to-angular-2/) :heavy_dollar_sign:
+        - [The Complete Angular Course: Beginner to Advanced by  Mosh Hamedani Udemy](https://www.udemy.com/the-complete-angular-master-class/) - :heavy_dollar_sign:
         - [Angular Expo](https://angularexpo.com/) - Beautiful showcase of websites, applications and experiments using Angular
         - [Made With Angular](https://www.madewithangular.com/) - Gallery of inspiring websites using Angular/AngularJS
         - [Learn Angular 7 in 50 minutes](https://www.youtube.com/watch?v=5wtnKulcquA) - A free beginner's crash course :baby:
@@ -343,32 +343,32 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
      - **React.js**
         - [React JS - Conference Videos](https://www.reactjsvideos.com/)
-        - [Video Tutorials - Beginner to Intermediate | YouTube](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
-        - [Complete React Tutorial (& Redux) | YouTube](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
-        - [ReactJS Tutorial | Codecademy](https://www.codecademy.com/learn/react-101) - Interactive
+        - [Video Tutorials - Beginner to Intermediate YouTube](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
+        - [Complete React Tutorial (& Redux) YouTube](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
+        - [ReactJS Tutorial Codecademy](https://www.codecademy.com/learn/react-101) - Interactive
         - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
         - [Few Projects for every React Dev](https://daveceddia.com/react-practice-projects/)
         - [Famous GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
         - [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux/) :heavy_dollar_sign: - Worth it
-        - [Hello World | React.js Org](https://reactjs.org/docs/hello-world.html)
-        - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
-        - [React For Beginners | Wes Bos](https://reactforbeginners.com/) :heavy_dollar_sign:
-        - [Advanced React | Wes Bos](https://advancedreact.com/) :heavy_dollar_sign:
-        - [React Fundamentals | Tyler McGinnis](https://tylermcginnis.com/courses/react-fundamentals/) :heavy_dollar_sign:
-        - [Modern React with Redux | Udemy](https://www.udemy.com/react-redux/) :heavy_dollar_sign:
+        - [Hello World React.js Org](https://reactjs.org/docs/hello-world.html)
+        - [The Road to React Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
+        - [React For Beginners Wes Bos](https://reactforbeginners.com/) :heavy_dollar_sign:
+        - [Advanced React  Wes Bos](https://advancedreact.com/) :heavy_dollar_sign:
+        - [React Fundamentals  Tyler McGinnis](https://tylermcginnis.com/courses/react-fundamentals/) :heavy_dollar_sign:
+        - [Modern React with Redux  Udemy](https://www.udemy.com/react-redux/) :heavy_dollar_sign:
 	
      - **React Native**     
         - [React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/) :heavy_dollar_sign:
 
     - **Redux.js**
-        - [Redux Tutorial #1 - React js tutorial - How Redux Works | YouTube](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) :baby:
+        - [Redux Tutorial #1 - React js tutorial - How Redux Works  YouTube](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) :baby:
         - [Redux Documentation](https://redux.js.org/introduction) :star:
         - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
         - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
         - [React Redux Tutorial](https://dev.to/valentinogagliardi/react-redux-tutorial-for-beginners-learning-redux-in-2018-13hj)
         - [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
-        - [Introduction to the Redux Challenges | freeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/redux)
-        - [Redux | Tyler McGinnis](https://tylermcginnis.com/courses/redux/) :heavy_dollar_sign:
+        - [Introduction to the Redux Challenges freeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/redux)
+        - [Redux Tyler McGinnis](https://tylermcginnis.com/courses/redux/) :heavy_dollar_sign:
 
     - **Vue.js**
         - [Vue School](https://vueschool.io/courses) :free: + :heavy_dollar_sign:
@@ -381,20 +381,20 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - **Web Accessibility**
         - [Accessibility MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
         - [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
-        - [A Video Tutorial on Web Accessibility for Impaired Users | YouTube](https://www.youtube.com/watch?v=aqM6rV5IBlg&t=1s)
+        - [A Video Tutorial on Web Accessibility for Impaired Users YouTube](https://www.youtube.com/watch?v=aqM6rV5IBlg&t=1s)
         - [WebAim Web Accessibility Resources and Tools](https://webaim.org/resources/)
         - [Web Accessibility Checklist - The A11Y Project](https://a11yproject.com/checklist)
-        - [ARIA - Accessibility | MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+        - [ARIA - Accessibility  MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 
 - **Frontend DevTools**
     - **Package Managers**
-        - [NPM | YouTube](https://www.youtube.com/watch?v=76A2Ppenxh8)
-        - [Yarn | YouTube](https://www.youtube.com/watch?v=g9_6KmiBISk)
+        - [NPM  YouTube](https://www.youtube.com/watch?v=76A2Ppenxh8)
+        - [Yarn  YouTube](https://www.youtube.com/watch?v=g9_6KmiBISk)
         - [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
 
     - **Bundlers**
         - [Webpack - The most used bundler](https://webpack.js.org/guides/getting-started/)
-        - [Webpack | YouTube](https://www.youtube.com/watch?v=GU-2T7k9NfI)
+        - [Webpack  YouTube](https://www.youtube.com/watch?v=GU-2T7k9NfI)
         - [Parcel - The predicted webpack killer](https://medium.com/codingthesmartway-com-blog/getting-started-with-parcel-197eb85a2c8c)
         - [Browserify - The first bundler](https://scotch.io/tutorials/getting-started-with-browserify)
         - [Rollup](https://medium.com/@yonester/bundling-with-rollup-the-basics-b782b55f36a8)
@@ -443,12 +443,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition :heavy_dollar_sign:
 
 ## 1.8 Alexa Tutorials
- - [Learn Alexa | Codecademy](https://www.codecademy.com/learn/learn-alexa)
- - [ Fact Skill Tutorial - Build an Alexa Skill in 6 Steps | Amazon](https://developer.amazon.com/alexa-skills-kit/tutorials/fact-skill-1)
- - [Comprehensive Alexa Skill Development course | Udemy](https://www.udemy.com/comprehensive-alexa-skill-development-course/?siteID=Fh5UMknfYAU-DbsLrZFg2AAmpu3BgGbHJQ&LSNPUBID=Fh5UMknfYAU) :heavy_dollar_sign:
- - [Building Alexa Skills from Scratch | YouTube](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
- - [Developing Alexa Skills for Amazon Echo | PluralSight](https://www.pluralsight.com/courses/amazon-echo-developing-alexa-skills) :heavy_dollar_sign: (Free 10-day trial)
- - [Alexa Skills Development | Qwiklabs](https://qwiklabs.com/quests/19)
+ - [Learn Alexa Codecademy](https://www.codecademy.com/learn/learn-alexa)
+ - [ Fact Skill Tutorial - Build an Alexa Skill in 6 Steps Amazon](https://developer.amazon.com/alexa-skills-kit/tutorials/fact-skill-1)
+ - [Comprehensive Alexa Skill Development course Udemy](https://www.udemy.com/comprehensive-alexa-skill-development-course/?siteID=Fh5UMknfYAU-DbsLrZFg2AAmpu3BgGbHJQ&LSNPUBID=Fh5UMknfYAU) :heavy_dollar_sign:
+ - [Building Alexa Skills from Scratch  YouTube](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
+ - [Developing Alexa Skills for Amazon Echo  PluralSight](https://www.pluralsight.com/courses/amazon-echo-developing-alexa-skills) :heavy_dollar_sign: (Free 10-day trial)
+ - [Alexa Skills Development  Qwiklabs](https://qwiklabs.com/quests/19)
 
 ## 1.9 C Language
  - [Tutorials Point](https://www.tutorialspoint.com/cprogramming/)
@@ -461,7 +461,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Randu](https://randu.org/tutorials/c/)
  - [W3Schools](https://www.w3schools.in/c-tutorial/)
  - [C-Geeks for Geeks](https://www.geeksforgeeks.org/c-programming-language/)
- - [Learning to Program in C by Jonathan Engelsma | YouTube](https://www.youtube.com/playlist?list=PLkB3phqR3X40reMCBYSoNUPbDvM4kybMs)
+ - [Learning to Program in C by Jonathan Engelsma YouTube](https://www.youtube.com/playlist?list=PLkB3phqR3X40reMCBYSoNUPbDvM4kybMs)
  - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
 
 ## 1.10 C++ Language
@@ -473,16 +473,16 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [C++ Language Reference](http://www.cplusplus.com/reference/)
  - [Learn C ++](http://www.cplusplus.com/doc/tutorial/)
  - [Fluent CPP](https://www.fluentcpp.com/)
- - [C++ Class | Google for Education ](https://developers.google.com/edu/c++/)
+ - [C++ Class Google for Education ](https://developers.google.com/edu/c++/)
  - [Tutorials Point](https://www.tutorialspoint.com/cplusplus/)
  - [GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
- - [C++ For Programmers | Udacity](https://in.udacity.com/course/c-for-programmers--ud210)
+ - [C++ For Programmers Udacity](https://in.udacity.com/course/c-for-programmers--ud210)
 
  ## 1.11 Git and Github
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
- - [How to use Git and Github | Udacity](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
- - [Version Control with Git | Udacity](https://in.udacity.com/course/version-control-with-git--ud123)
- - [Introduction to Git and Github | YouTube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+ - [How to use Git and Github  Udacity](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
+ - [Version Control with Git  Udacity](https://in.udacity.com/course/version-control-with-git--ud123)
+ - [Introduction to Git and Github YouTube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
  - [Pro Git Book](https://git-scm.com/book/en/v2)
  - [LearnGitBranching](https://learngitbranching.js.org/)
  - [GIT PURR! Git Commands Explained with Cats!](https://girliemac.com/blog/2017/12/26/git-purr/)
@@ -745,9 +745,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 4. [AWS Educate](https://aws.amazon.com/education/awseducate/)
 5. [Google Cloud](https://cloud.google.com/free/)
 6. [Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
-7. [Google Reskilling India Program | Pluralsight](https://www.pluralsight.com/partners/google/)
-8. [Free .tech domain for 1 year | dot tech Domains](https://get.tech/students)
-9. [Free Web Hosting for 1 year | Znetlive](https://www.znetlive.com/student-web-hosting/)
+7. [Google Reskilling India Program  Pluralsight](https://www.pluralsight.com/partners/google/)
+8. [Free .tech domain for 1 year  dot tech Domains](https://get.tech/students)
+9. [Free Web Hosting for 1 year Znetlive](https://www.znetlive.com/student-web-hosting/)
 10. [Bitbucket Education](https://bitbucket.org/product/education)
 11. [Namecheap free .name Domain](https://nc.me/)
 12. [ Autodesk Education software for students](https://www.autodesk.com/education/free-software/featured)
@@ -978,7 +978,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 # 10. Top Websites to Follow
 
 1.   **Data Science**
-      - [Data Science Courses: R & Python Analysis Tutorials | DataCamp](http://www.datacamp.com/courses)
+      - [Data Science Courses: R & Python Analysis Tutorials DataCamp](http://www.datacamp.com/courses)
       - [CSE-109 - Harvard University](http://cs109.github.io/2015/)
       - [CSE231N - Computer Vision Stanford University](http://cs231n.stanford.edu/)
       - [Developer Circles Data Resources](https://www.developercircleresources.com/learningPath/data/)
