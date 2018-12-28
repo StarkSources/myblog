@@ -1,6 +1,6 @@
 ---
 title: "Github First Contributions"
-images: https://i0.wp.com/awaywithwords.co/wp-content/uploads/2018/06/contribute-open-source-github.png?resize=805%2C452&ssl=1
+image: https://www.linode.com/docs/development/version-control/how-to-install-git-and-clone-a-github-repository/git-github-workflow-1000w.png
 categories: [github, tutorial]
 tags: [tutorial, github]
 ---
