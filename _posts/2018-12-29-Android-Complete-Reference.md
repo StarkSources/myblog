@@ -5,6 +5,7 @@ tags: [Android]
 image: http://www.securitynewspaper.com/snews-up/2018/10/google-android-copy11.jpg
 ---
 >taken from AmitShekarIITBHU
+
 # Awesome Android Complete Reference [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Mindorks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
 [![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
