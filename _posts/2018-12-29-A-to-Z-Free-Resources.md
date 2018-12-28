@@ -651,7 +651,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ##  2.3  Hackathon Search Portals :dart:
 |s.no| Name  | Location | Category |
-|---| ------ |---| --- |
+|----| ----- |----------| -------- |
 |1| [HackSociety](https://hacksociety.tech/attend/)| India | ALL |
 |2| [DevPost](https://devpost.com/hackathons) | Online & On-site | ALL |
 |3| [HackerEarth](https://hackerearth.com/) | Online & On-site | ALL |
