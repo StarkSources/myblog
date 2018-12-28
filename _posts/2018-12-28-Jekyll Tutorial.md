@@ -90,3 +90,5 @@ Jekyll is a [Ruby Gem](/docs/ruby-101/#gems) that can be installed on most syste
 * [GCC](https://gcc.gnu.org/install/) and [Make](https://www.gnu.org/software/make/) (in case your system doesn't have them installed, which you can check by running `gcc -v`,`g++ -v`  and `make -v` in your system's command line interface)
 
 <hr>
+
+[Full Link here](https://jekyllrb.com/docs/)
