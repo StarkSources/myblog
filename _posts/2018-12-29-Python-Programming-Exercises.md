@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 categories: [Python, tutorial]
 tags: [Python, tutorial]
 image: https://t3n9sm.c2.acecdn.net/wp-content/uploads/2016/09/Python.jpg
