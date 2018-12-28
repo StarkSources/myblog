@@ -13,9 +13,6 @@ image: https://github.com/SnistAheads/A-to-Z-Resources-for-Students/raw/master/r
 
 When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers from all around have collected a list of resources for students. If you are in college, a college graduate, or just starting out as a developer, you should definitely check it out!
 
-![Image](https://github.com/SnistAheads/A-to-Z-Resources-for-Students/raw/master/res/a2z.png)
-
-*Image credits: Google*
 
 ## Table of Contents :clipboard:
 
@@ -72,13 +69,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 
 ---
-
-# FYI
-
-- Are you just getting started? Look for the :baby: emoji. It highlights resources for absolute beginners.
-- Some resources are recommended for _everyone_, so they have a :star: emoji.
-- Willing to spend some money to improve your skills?  :heavy_dollar_sign: indicates paid content.
-
 ---
 
 # 1. Coding Resources
