@@ -4,20 +4,19 @@ categories: [useful, taken]
 tags: [useful,links]
 image: https://github.com/SnistAheads/A-to-Z-Resources-for-Students/raw/master/res/a2z.png
 ---
-# A to Z Resources for Students :boy: ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 [![GitHub license](https://img.shields.io/github/license/dipakkr/A-to-Z-Resources-for-Students.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/pulls)
 
 
 > ## Feel free to show your :heart: by giving a star :star:
 
-> ## :gift: [Check Out the List of Contributors](CONTRIBUTORS.md) - _Feel free to add your details here!_
+> taken from A-to-Z
 
 ### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
 When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers from all around have collected a list of resources for students. If you are in college, a college graduate, or just starting out as a developer, you should definitely check it out!
 
-![Image](res/a2z.png)
+![Image](https://github.com/SnistAheads/A-to-Z-Resources-for-Students/raw/master/res/a2z.png)
 
 *Image credits: Google*
 
@@ -73,7 +72,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 10. [Top Websites to Follow](#10-top-websites-to-follow)
 11. [Additional Links](#11-additional-links-hamster)
 12. [Bootcamps](#12-coding-bootcamps)
-13. [Contributors](CONTRIBUTORS.md)
+
 
 ---
 
