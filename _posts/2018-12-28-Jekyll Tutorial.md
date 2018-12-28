@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Jekyll 101"
 categories: [jekyll, tutorial, docs]
 image: https://jlospinoso.github.io/images/jekyll.svg
 tags: [jekyll, tutorial]
