@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 categories: [links, useful]
 tags: useful
 image: https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/11/OpenAI.png
