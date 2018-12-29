@@ -1,6 +1,7 @@
 ---
 layout: post
 categories: xamarin
+image: https://cdn.dotned.nl/Files/xamarinforms.png
 tags: xamarin
 ---
 
