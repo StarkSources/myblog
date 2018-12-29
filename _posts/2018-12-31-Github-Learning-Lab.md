@@ -19,5 +19,12 @@ Level up your GitHub skills with a series of challenges and activities—and see
 -Show off your accomplishments <br>
 -Build your skills <br>
 
+> It has Courses on **Git**, **Github**,**Markdown**, **Github Pages**, **Merge Conflicts** and also with **learning paths** for beginners.
 
 Link here : [Learning lab](https://lab.github.com/)
+
+##### Additional Resources:
+
+[Github Community](https://github.community/)<br>
+[Github Classroom](https://classroom.github.com/)<br>
+[Github Education](https://education.github.com/)
