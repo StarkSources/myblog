@@ -8,7 +8,7 @@ image: https://cdn-images-1.medium.com/max/1200/1*Mx3MUKkPENbaIR-vKGeLDw.jpeg
 > MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need.
 
 ### Features:
-- MongoDB **stores data** in flexible, ***JSON-like** documents, meaning fields can vary from document to document and data structure can be changed over time
+- MongoDB **stores data** in flexible, **JSON-like** documents, meaning fields can vary from document to document and data structure can be changed over time
 
 - The document model **maps to the objects in your application code**, making data easy to work with
 
