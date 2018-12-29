@@ -15,9 +15,9 @@ The Learning Lab bot will guide you through projects and provide feedback right 
 > **Track your learning** <br>
 Level up your GitHub skills with a series of challenges and activities—and see your progress as you complete them.
 
--Receive instant feedback
--Show off your accomplishments
-Build your skills
+-Receive instant feedback <br>
+-Show off your accomplishments <br>
+-Build your skills <br>
 
 
 Link here : [Learning lab](https://lab.github.com/)
