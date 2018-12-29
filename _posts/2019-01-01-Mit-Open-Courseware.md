@@ -1,6 +1,6 @@
 ---
 layout: post
-image:https://starksources.github.io/assets/img/mit.jpg
+image: https://starksources.github.io/assets/img/mit.jpg
 tags: mit
 categories: mit
 ---
