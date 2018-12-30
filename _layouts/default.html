@@ -172,6 +172,27 @@ input[type=text]:focus {
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/tags.html">Tags</a>
                 </li>
+		    
+		 <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="far fa-grin-hearts"></i>&nbsp;&nbsp;Contact</a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+              <a target="_blank" class="nav-link" href="mailto:{{ site.email }}"><i class="fas fa-envelope"></i>&nbsp;&nbsp;Mail</a>
+
+              <div class="dropdown-divider"></div>
+
+              <a target="_blank" class="nav-link" href="https://www.github.com/{{ site.github }}/"><i class="fab fa-github"></i>&nbsp;&nbsp;GitHub</a>
+
+              <a target="_blank" class="nav-link" href="https://www.linkedin.com/in/{{ site.linkedin }}/"><i class="fab fa-linkedin"></i>&nbsp;&nbsp;LinkedIn</a>
+
+              <div class="dropdown-divider"></div>
+  
+              <!-- <a target="_blank" class="nav-link" href="https://www.instagram.com/infosecravindra/"><i class="fab fa-instagram"></i>&nbsp;&nbsp;Instagram</a> -->
+
+              <a target="_blank" class="nav-link" href="https://twitter.com/{{ site.twitter }}"><i class="fab fa-twitter"></i>&nbsp;&nbsp;Twitter</a>
+
+            </div>
+          </li>
                 
             </ul>		
   
@@ -241,7 +262,6 @@ SimpleJekyllSearch({
     
 <!-- Categories Jumbotron
 ================================================== -->
-<!--
 <div class="jumbotron fortags">
 	<div class="d-md-flex h-100">
 		<div class="col-md-4 transpdark align-self-center text-center h-100">
@@ -250,14 +270,14 @@ SimpleJekyllSearch({
             </div>
 		</div>
 		<div class="col-md-8 p-5 align-self-center text-center">
-          {% assign tags_list = site.categories %}  
+          {% assign tags_list = site.categories | sort %}  
           {% if tags_list.first[0] == null %}
             {% for tag in tags_list %} 
-              <a href="{{ site.baseurl }}/category/{{ tag }}">{{ tag | capitalize }} {{ site.tags[tag].size }}</a>
+              <a href="{{ site.baseurl }}/categories.html#{{ tag | slugify }}">{{ tag | capitalize }} {{ site.tags[tag].size }}</a>
             {% endfor %}
           {% else %}
             {% for tag in tags_list %} 
-              <a href="{{ site.baseurl }}/category/{{ tag[0] }}">{{ tag[0] | capitalize }} ({{ tag[1].size }})</a>
+              <a href="{{ site.baseurl }}/categories.html#{{ tag[0]  | slugify }}">{{ tag[0] | capitalize }} ({{ tag[1].size }})</a>
             {% endfor %}
           {% endif %}
         {% assign tags_list = nil %}
@@ -265,7 +285,7 @@ SimpleJekyllSearch({
 		</div>
 	</div>
 </div>
- -->
+
 
 <!-- Begin Footer
 ================================================== -->
