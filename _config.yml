@@ -15,14 +15,16 @@
 # in the templates via {{ site.myvariable }}.
 title: My Blog
 email: sathuribharathbrothers1234@gmail.com
+twitter_username: bharathsathuri
+github_username: Bharathbrothers
+linkedin_username: bharath-kumar-goud
 name: Stark's Blog
 description: >- # this means to ignore newlines until "baseurl:"
   A blog on various topics,tutorials and resources.
 baseurl: "/myblog" # the subpath of your site, e.g. /blog
 url: "https://starksources.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 keyword: "Stark Sources, Blog, Bharath Sathuri, Resources, StarkSources"
-twitter_username: bharathsathuri
-github_username:  starksources
+
 
 meta_description: "Technical Blog, Bharath Sathuri, Android, Stark Sources, Resources and related Articles"
 logo: 'assets/images/logo.png'
