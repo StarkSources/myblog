@@ -591,7 +591,7 @@ License: https://www.wowthemes.net/freebies-license/
          padding:0;
          height:350px;
          border-radius:0;
-         background-image: url(../images/jumbotron.jpg);
+         background-image: url(../images/cloudfine.jpg);
          background-size:cover;
     }
      .jumbotron.fortags .col-md-4 {
@@ -606,7 +606,7 @@ License: https://www.wowthemes.net/freebies-license/
          margin-top: 3rem;
          padding:0;
          border-radius:0;
-         background-image: url(../images/jumbotron.jpg);
+         background-image: url(../images/cloudfine.jpg);
          background-size:cover;
 }
  .jumbotron.fortags a {
@@ -652,3 +652,6 @@ License: https://www.wowthemes.net/freebies-license/
  .card .img-fluid {
     width:100%;
 }
+.post-tag {
+  margin: 2px;
+} 
