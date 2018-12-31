@@ -67,6 +67,9 @@ paginate_path: /page:num/
 markdown: kramdown
 highlighter: rouge
 
+color-browser: "#16AEF9"
+apple-status-bar-style: "blue"
+
 authors:
   sal:
     name: Bharath Sathuri
