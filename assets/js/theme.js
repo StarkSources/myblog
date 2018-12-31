@@ -1,4 +1,3 @@
-<script>
 document.body.style.backgroundColor = sessionStorage.getItem('bg');
 document.body.style.color = sessionStorage.getItem('cc');
 function theme() {
@@ -26,4 +25,3 @@ document.body.style.backgroundColor = sessionStorage.getItem('bg');
 document.body.style.color = sessionStorage.getItem('cc');
 
 }
-	</script>
