@@ -44,10 +44,10 @@ post_class: post-template
   stroke-linejoin="round" stroke-width="2"><circle cx="16" cy="16" r="14" /><path d="M16 8 L16 16 20 20" /></svg>       
 
   {% assign words = content | number_of_words %}
-  {% if words < 360 %}
+  {% if words < 60 %}
     1 min read.
   {% else %}
-    {{ words | divided_by:180 }} mins read.
+    {{ words | divided_by:80 }} mins read.
   {% endif %}
 </span>
 <style>
