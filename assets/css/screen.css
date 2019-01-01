@@ -658,7 +658,7 @@ License: https://www.wowthemes.net/freebies-license/
   margin: 2px;
 } 
 
-p{
+p,h3,h4,h5{
  color: #777777;
 }
 
