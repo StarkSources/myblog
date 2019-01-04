@@ -22,10 +22,10 @@ First what is **Linkedin**?
 
 > LinkedIn is a business and employment-oriented service that operates via websites and mobile apps. Founded on December 28, 2002, and launched on May 5, 2003, it is mainly used for professional networking, including employers posting jobs and job seekers posting their CVs.
 
-This is from **Wikipedia** .<br>
-Its a platform to make connections with _professionals_ , follow Companies for their Job Postings,Internships ,Learn from their Learning Solutions,**SlideShare** Platform and many more. 
+This is from **Wikipedia**.<br>
+Its a platform to make connections with _professionals_, follow Companies for their Job Postings, Internships, Learn from their Learning Solutions, **SlideShare** Platform and many more. 
 
-You can build your **Professional Resume** by adding your skills,projects,Accomplishments,Work Positions and so on..
+You can build your **Professional Resume** by adding your skills, projects, Accomplishments, Work Positions and so on..
 
 
 
@@ -34,9 +34,9 @@ Next what is **Github**?
 > GitHub Inc. is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features.
 
 This is from **Wikipedia**.<br>
-In simple words,**GitHub** is a code hosting platform for **version control** and collaboration. It lets you and others work together on projects from anywhere. Apart from this it can also be used to host your personal blogs,portfolio websites,etc.It also has Github for Education(Classrooms),Organizations and a good community.
+In simple words,**GitHub** is a code hosting platform for **version control** and collaboration. It lets you and others work together on projects from anywhere. Apart from this it can also be used to host your personal blogs,portfolio websites,etc.It also has Github for Education(Classrooms), Organizations and a good community.
 
->__Now-a-days__ Github is used as platform to show case your **projects**,contributions to **open source projects** and Companies **recruiting** their employees based on their __Github Profile__ where you can learn the abilities of an Employee directly with seeing their Resume/CV.
+>__Now-a-days__ Github is used as platform to show case your **projects**, contributions to **open source projects** and Companies **recruiting** their employees based on their __Github Profile__ where you can learn the abilities of an Employee directly with seeing their Resume/CV.
 
 So its _mandatory(Helpful)_ for every student to have a Github Handle and **showcase** their talent.
 
