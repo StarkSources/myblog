@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/myblog" # the subpath of your site, e.g. /blog
 url: "https://starksources.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 keyword: "Stark Sources, Blog, Bharath Sathuri, Resources, StarkSources"
-
+git_repo: myblog
 
 meta_description: "Technical Blog, Bharath Sathuri, Android, Stark Sources, Resources and related Articles"
 logo: 'assets/images/logo.png'
