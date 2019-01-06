@@ -24,17 +24,17 @@ Data is collected in every aspect of our existence. The true transformative impa
 
 We see organizations in most spaces seeding data-related initiatives. Companies that leverage and act upon the gems of information contained within data will get ahead of the competition – or even transform their industries. The transformative aspect of data is also applicable to the not-for-profit sector, for the betterment of society and improving our existence.
 
-A variety of data related professions are relevant: Data Scientist, Data Engineer, Data Analyst, Database Developer, Business Intelligence (BI) Analyst, etc., and the most prominent of those is Data Scientist. It has been called “the sexiest job of the 21st century” by the Harvard Business Review, and Glassdoor calls it the “best job in America”.
+A variety of data related professions are relevant: **Data Scientist**, _Data Engineer, Data Analyst, Database Developer,_ Business Intelligence (BI) Analyst, etc., and the most prominent of those is Data Scientist. It has been called “the best job of the 21st century” by the Harvard Business Review, and **Glassdoor** calls it the “best job in America”.
 
 Job listings and salary profiles for this profession clearly reflect this. When we talk to our clients we see a common thread: they can’t find enough qualified people to staff their data projects. This has created a tremendous opportunity for data professionals, especially Data.
 
-In a recent report, IBM projected that “by 2020 the number of positions for data and analytics talent in the United States will increase by 364,000 openings, to 2,720,000”. The global demand is even higher.
+In a recent report, IBM projected that “by _2020_ the number of positions for data and analytics talent in the United States will increase by **364,000 openings, to 2,720,000**”. The global demand is even higher.
 
 Even though Data Science is “hot and sexy” and might enable you to get a great job today, the question is will it continue to be in demand and important going forward?
 
 I certainly believe so, at least for another decade or more. Data is being created and collected at a rapid pace, and the number of organizations leveraging data is also expected to increase significantly.
 
-“IBM’s Data Science Professional Certificate on Coursera fulfills a massive need for more data science talent in the US and globally,” said Leah Belsky, Vice President of Enterprise at Coursera. “Coursera offers online courses on everything from computer science to literature, but over a quarter of all enrollments from our 7 million users in the US are in data science alone. We expect IBM’s certificate will become a valuable credential for people wanting to start a career in data science.”
+“IBM’s Data Science Professional Certificate on _Coursera_ fulfills a massive need for more data science talent in the US and globally,” said Leah Belsky, Vice President of Enterprise at Coursera. “Coursera offers online courses on everything from computer science to literature, but over a quarter of all enrollments from our 7 million users in the US are in data science alone. We expect IBM’s certificate will become a valuable credential for people wanting to start a career in data science.”
 
 ### What we offer
 It is with this in mind IBM developed the Data Science Professional Certificate. It consists of 9 courses that are intended to arm you with latest job-ready skills and techniques in Data Science.
@@ -89,3 +89,6 @@ IBM and Coursera are also working together to form a hiring consortium. Learners
 
 ### Next Steps
 All courses in this [Data Science Professional Certificate](https://www.coursera.org/specializations/data-science-professional-certificate) are live and available. Enroll today, start developing skills employers are looking for, and kickstart your career in Data Science.
+
+***All the Best.!!***
+
