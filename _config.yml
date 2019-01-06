@@ -81,5 +81,6 @@ authors:
     twitter: https://twitter.com/bharathsathuri
     description: "Bharath Sathuri,A Github-Jekyll Lover. I believe that Technology can change Anything."
 
-values:
-    related: true
+defaults:
+    values:
+      related: true
