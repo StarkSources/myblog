@@ -92,3 +92,7 @@ All courses in this [Data Science Professional Certificate](https://www.coursera
 
 ***All the Best.!!***
 
+> You can apply for Financial-Aid to all the above courses where you can get them for free only after auditing each individual course and apply for each course separately.
+
+Plz comment below if you need any help for applying financial-aid.
+
