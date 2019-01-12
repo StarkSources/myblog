@@ -17,14 +17,14 @@ Get experience by coding for nonprofits.
 
 
 #### Learn powerful skills
--HTML5
--CSS3
--JavaScript
--Databases
--Git & GitHub
--Node.js
--React.js
--D3.js
+- HTML5
+- CSS3
+- JavaScript
+- Databases
+- Git & GitHub
+- Node.js
+- React.js
+- D3.js
 
 
 
