@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 categories: general
 tags: inspirational
 image: https://www.techtud.com/sites/default/files/public/styles/blog_cover/public/cover_image/Green%20Pink%20Beach%20Fashion%20Show%20Summer%20Mood%20Photo%20Collage.jpg?itok=P4tU1yh5
