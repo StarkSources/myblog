@@ -225,3 +225,31 @@ author: sal
 
 </section>
 <!-- End of tutorial section -->
+
+<section id="next-steps">
+  <h1>Now that you’re up and running, here are a few things you should know.</h1>
+
+  <ul class="next-steps wrapper">
+    <li class="jekyll">
+      <a class="hero-octicon" href="https://help.github.com/articles/using-jekyll-with-pages">
+        <span class="mega-octicon octicon-pencil"></span>
+      </a>
+      <h4><a href="https://help.github.com/articles/using-jekyll-with-pages">Blogging with Jekyll</a></h4>
+      <p>Using <a href="https://jekyllrb.com">Jekyll</a>, you can blog using beautiful Markdown syntax, and without having to deal with any databases. <a href="https://jekyllrb.com/docs/">Learn how to set up Jekyll</a>.</p>
+    </li>
+    <li class="custom-urls">
+      <a class="hero-octicon" href="https://help.github.com/articles/setting-up-a-custom-domain-with-pages">
+        <span class="mega-octicon octicon-link"></span>
+      </a>
+      <h4><a href="https://help.github.com/articles/setting-up-a-custom-domain-with-pages">Custom URLs</a></h4>
+      <p>Want to use your own custom domain for a GitHub Pages site? Just create a file named CNAME  and include your URL. <a href="https://help.github.com/articles/setting-up-a-custom-domain-with-pages">Read more</a>.</p>
+    </li>
+    <li class="guides">
+      <a class="hero-octicon" href="https://help.github.com/categories/20/articles">
+        <span class="mega-octicon octicon-book"></span>
+      </a>
+      <h4><a href="https://help.github.com/categories/20/articles">Guides</a></h4>
+      <p>Learn how to create custom 404 pages, use submodules, and <a href="https://help.github.com/categories/20/articles">learn more about GitHub Pages</a>.</p>
+    </li>
+  </ul>
+</section>
