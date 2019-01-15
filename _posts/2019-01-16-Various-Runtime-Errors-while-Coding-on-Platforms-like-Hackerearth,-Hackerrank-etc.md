@@ -47,3 +47,7 @@ Also in case of TLE, it is not guaranteed that whether the solution was correct 
 
 TLE IN JAVA 
 If you keep receiving time limit in Java, the first thing to check is if your solution is using optimized methods of input and output. As test cases can be large in some of the problems, using Scanner and System.out might result in "Time Limit Exceeded", even though there exists a time limit multiplier (x2) times for JAVA, i.e., JAVA is assigned twice the normal time limit of the question.
+
+> content taken from Hackerearth.
+
+
