@@ -12,7 +12,7 @@ author: sal
   <iframe width="400" height="400" src="https://www.youtube.com/embed/2MsN8gpT6jY?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </section>
 
-Github is mostly used as Code-Hosting Platform with Version Control System. It can also be used for generating static sites for our projects, organizationa etc.All we need to do is upload all the website files into a repo and enable Github Pages in Repository settings.
+Github is mostly used as Code-Hosting Platform with Version Control System. It can also be used for generating static sites for our projects, organizations etc.All we need to do is upload all the website files into a repo and enable Github Pages in Repository settings.
 
 > Then you can visit your website as **username.github.io/repo**
 
