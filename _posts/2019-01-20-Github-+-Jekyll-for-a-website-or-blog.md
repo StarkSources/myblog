@@ -28,7 +28,7 @@ You can visit [jekyllib](https://jekyllrb.com/) website for excellent Documentai
  $ jekyll new my-awesome-site<br>
  $ cd my-awesome-site<br>
  $ bundle exec jekyll serve<br>
-# => Now browse to http://localhost:4000
+ => Now browse to http://localhost:4000
 
 You can use this for your project sites, blogs etc..
 
