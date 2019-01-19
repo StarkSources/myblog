@@ -15,11 +15,17 @@ author: sal
 
 Github is mostly used as Code-Hosting Platform with Version Control System. It can also be used for generating static sites for our projects, organizationa etc.All we need to do is upload all the website files into a repo and enable Github Pages in Repository settings.
 
-> Then you can visit your website as **usename.github.io/repo**
+> Then you can visit your website as **username.github.io/repo**
+
+> If you are new to github, first create account at [github.com](https://github.com) create a repository, initialize it with README.md file, enable github pages in repository settings using master branch and save the changes. you will be able to visit your site with README content.
+
 
 Jekyll is a static-site generator developed in **Ruby** Language by **Github Co-founder** and was continued by others. Later Github  adapted Jekyll for Gihtub Pages as static-site generator.
 
 You can visit [jekyllib](https://jekyllrb.com/) website for excellent Documentaion. You can write Content in Markdown and Jekyll builds your site automatically.
 
-Need to add more content.
+You can use this for your project sites, blogs etc..
 
+Thank you for reading this post.
+
+> Comment below for any quieries and share this with your friends..!
