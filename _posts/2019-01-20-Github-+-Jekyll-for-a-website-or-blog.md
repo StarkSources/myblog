@@ -6,10 +6,9 @@ tags: [github, jekyll]
 author: sal
 ---
 
-#### Content will be added very soon.!!
 
 <section id="video" class="video">
-  <h1>What is GitHub Pages?</h1>
+  <h3>What is GitHub Pages?</h3>
   <iframe width="400" height="400" src="https://www.youtube.com/embed/2MsN8gpT6jY?showinfo=0" frameborder="0" allowfullscreen></iframe>
 </section>
 
