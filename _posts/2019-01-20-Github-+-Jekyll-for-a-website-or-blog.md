@@ -23,6 +23,13 @@ Jekyll is a static-site generator developed in **Ruby** Language by **Github Co-
 
 You can visit [jekyllib](https://jekyllrb.com/) website for excellent Documentaion. You can write Content in Markdown and Jekyll builds your site automatically.
 
+> **Jekyll Quick Installation Instructions:** <br>
+ $ gem install bundler jekyll<br>
+ $ jekyll new my-awesome-site<br>
+ $ cd my-awesome-site<br>
+ $ bundle exec jekyll serve<br>
+# => Now browse to http://localhost:4000
+
 You can use this for your project sites, blogs etc..
 
 Thank you for reading this post.
