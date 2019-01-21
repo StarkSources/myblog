@@ -15,18 +15,17 @@ author: sal
 These are categorized into 3 categories based on majority of the problems and user reviews.
 
 - Basic:
+
   #### Hackerrank
 
   Project Euler+ a series of coding challenges.
   [link](https://www.hackerrank.com/contests/projecteuler/challenges)
   
-
   [link here](https://www.hackerrank.com/)
 
-  #### Hackrearth
+  #### Hackerearth
 
   Code Monk Series, which covers all the topics having a set of 18 modules.
-  
   [Code Monk](https://www.hackerearth.com/practice/codemonk/)
   
   [link here](https://www.hackerearth.com/challenges/)
@@ -34,6 +33,7 @@ These are categorized into 3 categories based on majority of the problems and us
   #### Project Euler
   
   [link here](https://projecteuler.net/about)
+
 
 - Intermediate:
   #### exercism
