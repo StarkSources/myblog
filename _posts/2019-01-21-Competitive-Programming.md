@@ -10,6 +10,8 @@ author: sal
 
 > New to programming?  just check this [link](https://www.hackerearth.com/practice-onboarding/welcome-to-online-programming-1/) and try to write some basic code in your language. 
 
+> Get started by Hackerearth. [link here](https://www.hackerearth.com/getstarted-competitive-programming/)
+
 These are categorized into 3 categories based on majority of the problems and user reviews.
 
 - Basic:
