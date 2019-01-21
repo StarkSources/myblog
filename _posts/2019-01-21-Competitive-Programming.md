@@ -8,15 +8,25 @@ author: sal
 
 ### Resources to begin with Competitive Programming.
 
+> New to programming?  just check this [link](https://www.hackerearth.com/practice-onboarding/welcome-to-online-programming-1/) and try to write some basic code in your language. 
+
 These are categorized into 3 categories based on majority of the problems and user reviews.
 
 - Basic:
   #### Hackerrank
 
+  Project Euler+ a series of coding challenges.
+  [link](https://www.hackerrank.com/contests/projecteuler/challenges)
+  
+
   [link here](https://www.hackerrank.com/)
 
   #### Hackrearth
 
+  Code Monk Series, which covers all the topics having a set of 18 modules.
+  
+  [Code Monk](https://www.hackerearth.com/practice/codemonk/)
+  
   [link here](https://www.hackerearth.com/challenges/)
   
   #### Project Euler
