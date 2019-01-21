@@ -23,7 +23,7 @@ These are categorized into 3 categories based on majority of the problems and us
   
   [link here](https://projecteuler.net/about)
 
--Intermediate:
+- Intermediate:
   #### exercism
   
   [link here](https://exercism.io/)
@@ -32,7 +32,7 @@ These are categorized into 3 categories based on majority of the problems and us
 
   [link here](https://leetcode.com/explore/)
 
--Advanced:
+- Advanced:
   #### CodeChef
   
   [link here](https://www.codechef.com/)
