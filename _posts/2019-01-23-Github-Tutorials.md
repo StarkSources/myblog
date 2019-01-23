@@ -17,6 +17,4 @@ Visualize Git. [link](http://git-school.github.io/visualizing-git/) here.
 
 [Github Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
-![Github cheatsheet pdf](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf "pdf")
-
 [Gitlab Courses](https://lab.github.com/courses)
