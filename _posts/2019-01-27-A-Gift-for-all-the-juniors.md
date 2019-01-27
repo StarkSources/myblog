@@ -13,6 +13,8 @@ easily from the following two resources [Code.org](https://code.org/) and [MIT A
 Anyone irrespective of their age and domain can learn from these resources. These are used by kids of age [5-12] in various countries and we use 
 it to build mobile applications easily with less code and complexity.
 
+> It is most useful when you are new to programming. you can learn all the programming concepts easily. 
+
 [Code.org](https://code.org/)
 
 [Build Apps](http://ai2.appinventor.mit.edu)
