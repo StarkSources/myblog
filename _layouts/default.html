@@ -21,6 +21,22 @@
 <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
     
 <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
+	
+	 <!--firebase -->
+<script src="https://www.gstatic.com/firebasejs/5.8.1/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyBd3yghRH-M-18EdfA5i4HUH0y5hFYMhMg",
+    authDomain: "sources-blog.firebaseapp.com",
+    databaseURL: "https://sources-blog.firebaseio.com",
+    projectId: "sources-blog",
+    storageBucket: "sources-blog.appspot.com",
+    messagingSenderId: "521233091835"
+  };
+  firebase.initializeApp(config);
+</script>
+	
 	<script src="//platform-api.sharethis.com/js/sharethis.js#property=5c3f3b5e8366dd0011c2fa03&product=inline-share-buttons"></script>
 	
   <script async src="{{site.baseurl}}/assets/js/theme.js"></script>
@@ -349,20 +365,7 @@ SimpleJekyllSearch({
 <!-- Bootstrap core JavaScript
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
-    <!--firebase -->
-<script src="https://www.gstatic.com/firebasejs/5.8.1/firebase.js"></script>
-<script>
-  // Initialize Firebase
-  var config = {
-    apiKey: "AIzaSyBd3yghRH-M-18EdfA5i4HUH0y5hFYMhMg",
-    authDomain: "sources-blog.firebaseapp.com",
-    databaseURL: "https://sources-blog.firebaseio.com",
-    projectId: "sources-blog",
-    storageBucket: "sources-blog.appspot.com",
-    messagingSenderId: "521233091835"
-  };
-  firebase.initializeApp(config);
-</script>
+   
 	
 	
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
