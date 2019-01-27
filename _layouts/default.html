@@ -349,7 +349,22 @@ SimpleJekyllSearch({
 <!-- Bootstrap core JavaScript
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
-    
+    <!--firebase -->
+<script src="https://www.gstatic.com/firebasejs/5.8.1/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyBd3yghRH-M-18EdfA5i4HUH0y5hFYMhMg",
+    authDomain: "sources-blog.firebaseapp.com",
+    databaseURL: "https://sources-blog.firebaseio.com",
+    projectId: "sources-blog",
+    storageBucket: "sources-blog.appspot.com",
+    messagingSenderId: "521233091835"
+  };
+  firebase.initializeApp(config);
+</script>
+	
+	
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
     
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
