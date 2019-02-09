@@ -5,6 +5,8 @@ tags: ndl
 categories: ndl
 ---
 
+### A Huge Collection of Resources for All Domains.
+
 The National Digital library of India (NDLI) is a project under Ministry of Human Resource Development, India. The objective is to integrate several national and international digital libraries in one single web-portal. The NDLI provides free of cost access to many books in English and the Indian languages.
 
 
