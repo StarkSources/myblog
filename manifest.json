@@ -39,7 +39,7 @@
   "display": "standalone"
 }
 
-
+/*
 {
   "name": "Push Demo",
   "short_name": "Push Demo",
@@ -51,3 +51,4 @@
   "display": "standalone",
   "gcm_sender_id": "521233091835"
 }
+*/
