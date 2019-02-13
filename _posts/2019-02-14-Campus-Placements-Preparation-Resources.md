@@ -11,22 +11,22 @@ featured: true
 
 #### For Coding Practice and Preparation:
 
-[Hackerrank Interview Preparation](https://www.hackerrank.com/interview/interview-preparation-kit)
-[LeetCode Interviews Section](https://leetcode.com/explore/interview/)
-[Exercism: C-Track](https://exercism.io/my/tracks/c)
-[Exercism: Java-Track](https://exercism.io/my/tracks/java)
-[Geeksforgeeks Practice](https://practice.geeksforgeeks.org/)
-[Hackerearth Topic-wise Practice](https://www.hackerearth.com/practice/)
+- [Hackerrank Interview Preparation](https://www.hackerrank.com/interview/interview-preparation-kit)
+- [LeetCode Interviews Section](https://leetcode.com/explore/interview/)
+- [Exercism: C-Track](https://exercism.io/my/tracks/c)
+- [Exercism: Java-Track](https://exercism.io/my/tracks/java)
+- [Geeksforgeeks Practice](https://practice.geeksforgeeks.org/)
+- [Hackerearth Topic-wise Practice](https://www.hackerearth.com/practice/)
 
 #### For Aptitude:
 
-[TestPot for Mock Tests](https://testpot.com/)
-[IndiaBix for Aptitude](https://www.indiabix.com/)
+- [TestPot for Mock Tests](https://testpot.com/)
+- [IndiaBix for Aptitude](https://www.indiabix.com/)
 
 #### For Verbal Preparation: 
 
-[Vocabulary.com ](https://www.vocabulary.com/)
-[Membeans for Vocabulary](https://membean.com)
+- [Vocabulary.com ](https://www.vocabulary.com/)
+- [Membeans for Vocabulary](https://membean.com)
 
 if you know any other best resources especially for placements, please comment below so that others will know about them and I will update in the post.
 
