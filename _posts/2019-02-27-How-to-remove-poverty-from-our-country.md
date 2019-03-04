@@ -3,6 +3,7 @@ layout: post
 categories: social
 tags: social, 1rupee
 image: https://im.indiatimes.in/content/2017/Nov/embed_1512023940_725x725.jpg
+author: sal
 ---
 ### How to remove poverty from our country?
 
