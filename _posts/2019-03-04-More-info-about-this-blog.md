@@ -13,5 +13,9 @@ This blog also has a Dark/light theme.
 
 This blog also has a Subscribers list where you can get updates. you too can join to the subscribers list.
 
+we have a contribute section where any user can submit their posts and share their Knowledge.
+
+
+
 
 
