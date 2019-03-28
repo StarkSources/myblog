@@ -5,6 +5,7 @@ categories: placements
 image: https://cdn.shopify.com/s/files/1/1996/3175/files/ig-01_21779644-cf0a-43bc-8273-81e55257ccb6_345x345_crop_top@2x.png?v=1495384839
 author: sal
 featured: true
+updated: 2019-03-28-19:30:00
 ---
 
 > Though I have not attended for any placements till now, I have collected these from my seniors who have suggested me to prepare from these below resources.
@@ -27,6 +28,9 @@ featured: true
 
 - [Vocabulary.com ](https://www.vocabulary.com/)
 - [Membeans for Vocabulary](https://membean.com)
+- [Free Rice for Vocabulary](https://beta.freerice.com)(updated)
+
+##### GeeksforGeeks free Courses for Placements [Courses](https://practice.geeksforgeeks.org/courses/)
 
 if you know any other best resources especially for placements, please comment below so that others will know about them and I will update in the post.
 
