@@ -32,7 +32,7 @@ update: 2019-03-28-19:30:00
 
 ##### GeeksforGeeks free Courses for Placements [Courses](https://practice.geeksforgeeks.org/courses/)
 
-##### [Commonlounge Competitive Programming Course](https://www.commonlounge.com/discussion/55e14de95aed4baa84f61bcb4c14ca3c#overview)
+##### Commonlounge Competitive Programming [Course](https://www.commonlounge.com/discussion/55e14de95aed4baa84f61bcb4c14ca3c#overview)
 
 if you know any other best resources especially for placements, please comment below so that others will know about them and I will update in the post.
 
