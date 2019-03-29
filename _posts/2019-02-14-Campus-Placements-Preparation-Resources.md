@@ -39,3 +39,5 @@ if you know any other best resources especially for placements, please comment b
 
 Thank you.!!!
 
+
+Image taken from nicepng website.
