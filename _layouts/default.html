@@ -9,7 +9,9 @@
 <title>{{ page.title }} | {{site.name}}</title>
     
 {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %} 
-	
+
+{% if page.keyword %}<meta name="keyword" content="{{ page.keyword }}">{% endif %} 
+
 {% seo %}
     
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
