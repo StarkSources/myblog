@@ -5,7 +5,8 @@ author: sal
 categories: [ Useful, CS, GATE ]
 tags: gate, CS
 image: https://images.unsplash.com/photo-1521587760476-6c12a4b040da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
-description: Academic Material
+description: "Academic Material"
+featured: true
 ---
 
 ### Foundation of CS: 
