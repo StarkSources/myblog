@@ -34,7 +34,7 @@ Table of Contents
     Conclusion
     Take home exercise
 
-What is machine learning, and why do we care?
+### What is machine learning, and why do we care?
 
 Machine learning is a field of artificial intelligence that uses statistical techniques to give computer systems the ability to “learn” (e.g., progressively improve performance on a specific task) from data, without being explicitly programmed. Think of how efficiently (or not) Gmail detects spam emails, or how good text-to-speech has become with the rise of Siri, Alexa, and Google Home.
 
@@ -45,7 +45,7 @@ Some of the tasks that can be solved by implementing Machine Learning include:
     Image recognition: Identify objects and faces in images.
 
 Machine Learning is an enormous field, and today we’ll be working to analyze just a small subset of it.
-Supervised Machine Learning
+### Supervised Machine Learning
 
 Supervised learning is one of Machine Learning’s subfields. The idea behind Supervised Learning is that you first teach a system to understand your past data by providing many examples to a specific problem and desired output. Then, once the system is “trained”, you can show it new inputs in order to predict the outputs.
 
@@ -81,7 +81,7 @@ It’s worth mentioning that, while ANNs are inspired by biological neurons, the
     All the weighted inputs are summed together and passed into the activation function. The activation function reads the single summed weighted input and transforms it into a new numerical value.K Nearest Neighbors
     Finally, the numerical value that was returned by the activation function will then be the input of another neuron in another layer.
 
-Neural Network layers
+### Neural Network layers
 
 Neurons inside the ANN are arranged into layers. Layers are a way to give structure to the Neural Network, each layer will contain 1 or more neurons. A Neural Network will usually have 3 or more layers. There are 2 special layers that are always defined, which are the input and the output layer.
 
@@ -161,7 +161,7 @@ from sklearn.metrics import confusion_matrix
 import itertools
 %matplotlib inline
 
-The MNIST Dataset
+### The MNIST Dataset
 
 The MNIST dataset is a large database of handwritten digits that is used as a benchmark and an introduction to machine learning and image processing systems. We like MNIST because the dataset is very clean and this allows us to focus on the actual network training and evaluation. Remember: a clean dataset is a luxury in the ML world! So let’s enjoy and celebrate MNIST’s cleanliness while we can 🙂
 The objective
@@ -296,7 +296,7 @@ array([0., 0., 0., 0., 0., 0., 1., 0., 0., 0.])
 In [8]:
 plot_image(images[999])
 
-!{Image}(https://kite.com/wp-content/uploads/2019/02/download-six.png)
+![Image](https://kite.com/wp-content/uploads/2019/02/download-six.png)
 
 In the example above, we can see that the image at index 999 clearly represents a 6. It’s associated output vector contains 10 digits (since there are 10 available labels) and the digit at index 6 is set to 1, indicating that it’s the correct label.
 
@@ -476,7 +476,8 @@ array([[1413,    0,   10,    3,    2,   12,   12,    2,   10,    1],
 
 In [23]:
 
-# Source code: https://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html
+[Source code:](https://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html)
+
 def plot_confusion_matrix(cm, classes,
                           title='Confusion matrix',
                           cmap=plt.cm.Blues):
@@ -540,3 +541,5 @@ In my next article, I’ll be showing you how to deploy a learning model using g
     Try to train a Random Forest classifier (requires scikit-learn library) instead of a Neural Network. Is the accuracy better?
 
 This post is a part of Kite’s new series on Python. You can check out the code from this and other posts on our [GitHub repository](https://github.com/kiteco/kite-python-blog-post-code).
+
+# Download [KITE](https://kite.com/)
