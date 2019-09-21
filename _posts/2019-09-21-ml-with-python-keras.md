@@ -55,7 +55,8 @@ Earlier I mentioned that you can use Supervised Learning to predict an output. T
 
     In regression problems, we try to predict a continuous output. For example, predicting the price (real value) of a house when given its size.
     In classification problems, we try to predict a discrete number of categorical labels. For example, predicting if an email is spam or not given the number of words within it.
-
+    
+    ![Image](https://kite.com/wp-content/uploads/2019/02/black-box.44ca77d6.png)
 You can’t talk about Supervised Machine Learning without talking about supervised learning models – it’s like talking about programming without mentioning programming languages or data structures. In fact, the learning models are the structures that are “trained,” and their weights or structure change internally as they mold and understand what we are trying to predict. There are plenty of supervised learning models, some of the ones I have personally used are:
 
     Random Forest
@@ -71,6 +72,8 @@ ANNs are named this way because their internal structure is meant to mimic the h
 In the world of ANNs, each neuron is “activated” by first computing the weighted sum of its incoming inputs (other neurons from the previous layer), and then running the result through activation function. When a neuron is activated, it will, in turn, activate other neurons that will perform similar computations, causing a chain reaction between all the neurons of all the layers.
 
 It’s worth mentioning that, while ANNs are inspired by biological neurons, they are in no way comparable.
+
+![Image](https://kite.com/wp-content/uploads/2019/02/diagram.5ecf370d.png)
 
     What the diagram above is describing here is the entire activation process that every neuron goes through. Let’s look at it together from left to right.
     All the inputs (numerical values) from the incoming neurons are read. The incoming inputs are identified as x1..xn
@@ -89,16 +92,20 @@ The layers in between are described as “hidden layers”, and they are where m
 Choosing how many hidden layers and neurons
 
 There isn’t necessarily a golden rule on choosing how many layers and their size (or the number of neurons they have). Generally, you want to try and at least have 1 hidden layer and tweak around the size to see what works best.
-Using the Keras library to train a simple Neural Network that recognizes handwritten digits
+![Image](https://kite.com/wp-content/uploads/2019/02/layers.4b358e7e.png)
+
+# Using the Keras library to train a simple Neural Network that recognizes handwritten digits
 
 For us Python Software Engineers, there’s no need to reinvent the wheel. Libraries like Tensorflow, Torch, Theano, and Keras already define the main data structures of a Neural Network, leaving us with the responsibility of describing the structure of the Neural Network in a declarative way.
 
 Keras gives us a few degrees of freedom here: the number of layers, the number of neurons in each layer, the type of layer, and the activation function. In practice, there are many more of these, but let’s keep it simple. As mentioned above, there are two special layers that need to be defined based on your problematic domain: the size of the input layer and the size of the output layer. All the remaining “hidden layers” can be used to learn the complex non-linear abstractions to the problem.
 
-Today we’ll be using Python and the Keras library to predict handwritten digits from the MNIST dataset. There are three options to follow along: use the rendered Jupyter Notebook hosted on Kite’s github repository, running the notebook locally, or running the code from a minimal python installation on your machine.
+Today we’ll be using Python and the Keras library to predict handwritten digits from the MNIST dataset. There are three options to follow along: use the [rendered Jupyter Notebook](https://github.com/kiteco/kite-python-blog-post-code/tree/master/Practical%20Machine%20Learning%20with%20Python%20and%20Keras) hosted on Kite’s github repository, running the notebook locally, or running the code from a minimal python installation on your machine.
 Want to Code Faster?
 Kite is a plugin for PyCharm, Atom, Vim, VSCode, Sublime Text, and IntelliJ that uses machine learning to provide you with code completions in real time sorted by relevance. Start coding faster today.
-Download Kite Free
+
+### [Download Kite Free](https://kite.com/download)
+
 Running the iPython Notebook Locally
 
 If you wish to load this Jupyter Notebook locally instead of following the linked rendered notebook, here is how you can set it up:
@@ -254,6 +261,7 @@ def plot_image(pixels: np.array):
     plt.show()
 plot_image(images[25])
 
+![output](https://kite.com/wp-content/uploads/2019/02/download-graph.png)
 Encoding image labels using one-hot encoding
 
 We are going to use One-hot encoding to transform our target labels into a vector.
@@ -287,6 +295,8 @@ array([0., 0., 0., 0., 0., 0., 1., 0., 0., 0.])
 
 In [8]:
 plot_image(images[999])
+
+!{Image}(https://kite.com/wp-content/uploads/2019/02/download-six.png)
 
 In the example above, we can see that the image at index 999 clearly represents a 6. It’s associated output vector contains 10 digits (since there are 10 available labels) and the digit at index 6 is set to 1, indicating that it’s the correct label.
 
@@ -529,4 +539,4 @@ In my next article, I’ll be showing you how to deploy a learning model using g
     Try to add more layers. Does the neural network train slower? Can you think of why?
     Try to train a Random Forest classifier (requires scikit-learn library) instead of a Neural Network. Is the accuracy better?
 
-This post is a part of Kite’s new series on Python. You can check out the code from this and other posts on our GitHub repository.
+This post is a part of Kite’s new series on Python. You can check out the code from this and other posts on our [GitHub repository](https://github.com/kiteco/kite-python-blog-post-code).
