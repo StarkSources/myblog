@@ -101,10 +101,7 @@ For us Python Software Engineers, there’s no need to reinvent the wheel. Libra
 Keras gives us a few degrees of freedom here: the number of layers, the number of neurons in each layer, the type of layer, and the activation function. In practice, there are many more of these, but let’s keep it simple. As mentioned above, there are two special layers that need to be defined based on your problematic domain: the size of the input layer and the size of the output layer. All the remaining “hidden layers” can be used to learn the complex non-linear abstractions to the problem.
 
 Today we’ll be using Python and the Keras library to predict handwritten digits from the MNIST dataset. There are three options to follow along: use the [rendered Jupyter Notebook](https://github.com/kiteco/kite-python-blog-post-code/tree/master/Practical%20Machine%20Learning%20with%20Python%20and%20Keras) hosted on Kite’s github repository, running the notebook locally, or running the code from a minimal python installation on your machine.
-Want to Code Faster?
-Kite is a plugin for PyCharm, Atom, Vim, VSCode, Sublime Text, and IntelliJ that uses machine learning to provide you with code completions in real time sorted by relevance. Start coding faster today.
 
-### [Download Kite Free](https://kite.com/download)
 
 Running the iPython Notebook Locally
 
