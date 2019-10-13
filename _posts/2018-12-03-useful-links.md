@@ -78,3 +78,5 @@ featured : true
 [Mozilla's Web Development Resources](https://developer.mozilla.org/en-US/)
 
 [Mozilla's Learning](https://learning.mozilla.org/en-US/)
+
+#### 15 Free Logo makers: check [here](https://websitesetup.org/15-best-online-logo-generators/).
